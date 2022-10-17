@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20221017103811" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20221017113039" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
   <channel id="ae">
     <display-name>A&amp;E (AE)</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-light-bg/ae.png" width="512" height="512"/>
@@ -332,38 +332,6 @@
     <display-name>WWE Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-light-bg/wwe-network.png" width="512" height="512"/>
   </channel>
-  <programme start="20221017090000 +0000" stop="20221017090200 +0000" channel="ae">
-    <title lang="en">A&amp;E Network Programming</title>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1440583958.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1440583961.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017090200 +0000" stop="20221017093100 +0000" channel="ae">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017093100 +0000" stop="20221017100000 +0000" channel="ae">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="ae">
     <title lang="en">David Jeremiah</title>
     <desc>A message of hope from David Jeremiah of Turning Point.</desc>
@@ -1187,17 +1155,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="abc">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="abc">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20221017110000 +0000" stop="20221017130000 +0000" channel="abc">
     <title lang="en">Good Morning America</title>
@@ -1624,57 +1584,6 @@
   </programme>
   <programme start="20220627070000 +0000" stop="20220627080000 +0000" channel="ahc-american-heroes-channel">
     <title lang="en">World War II in Color</title>
-  </programme>
-  <programme start="20221017082600 +0000" stop="20221017093400 +0000" channel="amc">
-    <title lang="en">The Walking Dead</title>
-    <sub-title>Variant</sub-title>
-    <desc>Eugene goes on the run while Aaron's group faces a complication.</desc>
-    <credits>
-      <director>Michael E. Satrazemis</director>
-      <actor role="Dale">Jeffrey DeMunn</actor>
-      <writer>Matt Negrete</writer>
-      <producer>Denise Huth</producer>
-      <composer>Bear McCreary</composer>
-    </credits>
-    <date>20221016</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11077603459.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11077603455.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S11E19</episode-num>
-    <episode-num system="xmltv_ns">10.18.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221017093400 +0000" stop="20221017100000 +0000" channel="amc">
-    <title lang="en">The Three Stooges</title>
-    <sub-title>Creeps</sub-title>
-    <desc>The boys tell their kids about when they were in a haunted castle in "Creeps." Phil Arnold, Moe Howard, Shemp Howard.</desc>
-    <credits>
-      <director>Jules White</director>
-      <actor>Curly Joe DeRita</actor>
-      <producer>Jules White</producer>
-      <editor>Robert Carlisle</editor>
-    </credits>
-    <date>19831201</date>
-    <category>Comedy</category>
-    <category>Pop culture classic</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172451592.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4803532744.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S23E02</episode-num>
-    <episode-num system="xmltv_ns">22.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="amc">
     <title lang="en">Paid Programming</title>
@@ -2108,34 +2017,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/19.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="animal-planet-20211102">
-    <title lang="en">Lone Star Law</title>
-    <sub-title>Back in the Wild</sub-title>
-    <desc>A game warden returns to Houston County after a life-threatening injury. Fisherman face sharks along the coast.</desc>
-    <credits>
-      <director>Lisa Bosak Lucas</director>
-      <actor>Mack Chambers</actor>
-      <producer>Jennifer Egan</producer>
-      <composer>Ben Zebelman</composer>
-    </credits>
-    <date>20190521</date>
-    <category>Action/Adventure</category>
-    <category>Reality</category>
-    <category>Animals</category>
-    <category>Crime</category>
-    <category>Environment</category>
-    <category>Nature</category>
-    <category>Outdoors</category>
-    <category>Police</category>
-    <category>Wildlife</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9618817396.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9618817387.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="animal-planet-20211102">
     <title lang="en">Pit Bulls &amp; Parolees</title>
     <sub-title>The Dogs Who Stole Our Hearts</sub-title>
@@ -2143,7 +2024,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20190222</date>
@@ -2168,7 +2049,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20190119</date>
@@ -2194,7 +2075,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20190216</date>
@@ -2220,7 +2101,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20190209</date>
@@ -2245,7 +2126,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20221008</date>
@@ -2364,7 +2245,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20121006</date>
@@ -2390,7 +2271,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20121013</date>
@@ -2794,7 +2675,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20191005</date>
@@ -2820,7 +2701,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20190323</date>
@@ -2846,7 +2727,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20191130</date>
@@ -2872,7 +2753,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20191102</date>
@@ -2967,7 +2848,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20221008</date>
@@ -3016,7 +2897,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20121027</date>
@@ -3042,7 +2923,7 @@
     <credits>
       <director>J. McMahon</director>
       <writer>Lauren Stone Jackson</writer>
-      <producer>Louise Crane</producer>
+      <producer>Jon Kramer</producer>
       <composer>Nicholas William Bailey</composer>
     </credits>
     <date>20121020</date>
@@ -3104,33 +2985,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="bbc-america">
-    <title lang="en">Star Trek: The Next Generation</title>
-    <sub-title>Sub Rosa</sub-title>
-    <desc>After Dr. Crusher (Gates McFadden) attends her grandmother's funeral, strange happenings lead her to believe she's inherited the family ghost (Duncan Regehr). Maturin: Michael Keenan. Riker: Jonathan Frakes (who also directed). Picard: Patrick Stewart.</desc>
-    <credits>
-      <director>Cliff Bole</director>
-      <actor role="Dr. Elissa Ogawa">Patti Yasutake</actor>
-      <producer>Ronald D. Moore</producer>
-      <composer>Ron Jones</composer>
-    </credits>
-    <date>19940131</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1685627262.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/7/1-10772619450.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S07E14</episode-num>
-    <episode-num system="xmltv_ns">6.13.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="bbc-america">
     <title lang="en">Star Trek: The Next Generation</title>
@@ -4002,50 +3856,6 @@
       <value>58/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="bet">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title>Meet the Wing Man</sub-title>
-    <desc>Anthony enlists Will to support him as a "wingman" after meeting two women. In addition, Brianna hopes to make the cheerleading squad.</desc>
-    <credits>
-      <director>Kim Fields</director>
-      <actor role="Joaquin">Gunnar Washington</actor>
-      <writer>Joseph Hampton</writer>
-    </credits>
-    <date>20101110</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <category>Spin-off</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172452881.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9716752890.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S04E42</episode-num>
-    <episode-num system="xmltv_ns">3.41.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="bet">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title>Meet the Seoul Sister</sub-title>
-    <desc>The Colonel is stunned by news about his first fiancée. Meanwhile, a classmate schemes to win over Brianna by exploiting a friendship with Joaquin.</desc>
-    <credits>
-      <director>Kim Fields</director>
-      <actor role="Joaquin">Gunnar Washington</actor>
-      <writer>Joseph Hampton</writer>
-    </credits>
-    <date>20101110</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <category>Spin-off</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172452881.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9716752890.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S04E43</episode-num>
-    <episode-num system="xmltv_ns">3.42.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="bet">
     <title lang="en">Tyler Perry's Meet the Browns</title>
@@ -5188,14 +4998,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="bravo">
-    <title lang="en">Humana Medicare Advantage Plans</title>
-    <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="bravo">
-    <title lang="en">Try Total Gym Risk Free</title>
-    <desc>Total Gym Fit is the only piece of equipment you need get into the best shape of your life! 30 Day Risk-Free Trial. Call today!</desc>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="bravo">
     <title lang="en">Watch What Happens Live With Andy Cohen</title>
     <sub-title>BravoCon: Legends Ball</sub-title>
@@ -6261,13 +6063,6 @@
   <programme start="20220627070000 +0000" stop="20220627073000 +0000" channel="cartoon-network-02032021">
     <title lang="en">Birdgirl</title>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="cbs">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="cbs">
     <title lang="en">CBS Morning News</title>
     <sub-title>10-17-2022</sub-title>
@@ -6278,7 +6073,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2022E207</episode-num>
     <episode-num system="xmltv_ns">2021.206.</episode-num>
-    <new/>
   </programme>
   <programme start="20221017103000 +0000" stop="20221017110000 +0000" channel="cbs">
     <title lang="en">Local Programming</title>
@@ -6779,13 +6573,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="cmt-country-music-television">
-    <title lang="en">CMT Music Videos</title>
-    <desc>Music videos from country music's biggest names, iconic artists, and rising stars are featured.</desc>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="cmt-country-music-television">
     <title lang="en">CMT Music Videos</title>
     <desc>Music videos from country music's biggest names, iconic artists, and rising stars are featured.</desc>
@@ -6814,7 +6601,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6840,7 +6627,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6866,7 +6653,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6892,7 +6679,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6918,7 +6705,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6944,7 +6731,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -6970,7 +6757,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -6996,7 +6783,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7022,7 +6809,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7048,7 +6835,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7404,7 +7191,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7430,7 +7217,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7456,7 +7243,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7482,7 +7269,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7508,7 +7295,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7534,7 +7321,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7560,7 +7347,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7586,7 +7373,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -7857,7 +7644,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -7883,7 +7670,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -7909,7 +7696,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -7935,7 +7722,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -7961,7 +7748,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -7987,7 +7774,7 @@
     <credits>
       <director>Gail Mancuso</director>
       <actor role="Dan's Dad">Ned Beatty</actor>
-      <writer>Jennifer Heath</writer>
+      <writer>Amy Sherman-Palladino</writer>
       <producer>John Whitesell</producer>
       <composer>Dan Foliart</composer>
     </credits>
@@ -8013,7 +7800,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -8039,7 +7826,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -8065,7 +7852,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -8091,7 +7878,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -8323,16 +8110,6 @@
       <value>37/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/37.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="cnbc-2">
-    <title lang="en">Worldwide Exchange</title>
-    <desc>The latest business news and market analysis from around the world is reported.</desc>
-    <category>Business</category>
-    <category>Finance</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4620427399.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-4620427404.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017130000 +0000" channel="cnbc-2">
     <title lang="en">Squawk Box</title>
@@ -8805,14 +8582,9 @@
     </rating>
     <live/>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="cnn-02032021">
-    <title lang="en">Early Start with Christine Romans and Laura Jarrett</title>
-    <desc>Get a jump on the day's news with Christine Romans and Laura Jarrett.</desc>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="cnn-02032021">
     <title lang="en">New Day With John Berman and Brianna Keilar</title>
     <desc>John Berman and Brianna Keilar report the latest news and top stories.</desc>
-    <new/>
   </programme>
   <programme start="20221017110000 +0000" stop="20221017120000 +0000" channel="cnn-02032021">
     <title lang="en">New Day With John Berman and Brianna Keilar</title>
@@ -9101,18 +8873,6 @@
     <episode-num system="xmltv_ns">2021.262.</episode-num>
     <new/>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="comedy-central">
-    <title lang="en">Larry King's Investigative Prostate Health Report - Secrets To Prostate Health Revealed, Get The Solution To A Healthy Prostate</title>
-    <desc>Larry King Investigates Prostate Supplements to determine which products work and which ones don't work and why. A must watch for all men over 45.</desc>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="comedy-central">
-    <title lang="en">Camp Lejeune V5</title>
-    <desc>Even if you already filed a claim with the VA you may still need to file a case against the federal govt. to recover money damages you may be entitled to because of toxic water. Don't wait - take action now!.</desc>
-    <date>20220901</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="comedy-central">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
@@ -9274,7 +9034,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20031112</date>
@@ -9303,7 +9063,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20031119</date>
@@ -9332,7 +9092,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20031203</date>
@@ -9361,7 +9121,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20031210</date>
@@ -9390,7 +9150,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20040317</date>
@@ -9419,7 +9179,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20040414</date>
@@ -9448,7 +9208,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20040324</date>
@@ -9477,7 +9237,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20040421</date>
@@ -9506,7 +9266,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041027</date>
@@ -9535,7 +9295,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041103</date>
@@ -9564,7 +9324,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041110</date>
@@ -9593,7 +9353,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20050920</date>
     <category>Comedy</category>
@@ -9622,7 +9382,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20050927</date>
     <category>Comedy</category>
@@ -9651,7 +9411,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051004</date>
     <category>Comedy</category>
@@ -9680,7 +9440,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051011</date>
     <category>Comedy</category>
@@ -9709,7 +9469,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051101</date>
     <category>Comedy</category>
@@ -9738,7 +9498,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051108</date>
     <category>Comedy</category>
@@ -9767,7 +9527,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051115</date>
     <category>Comedy</category>
@@ -9796,7 +9556,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20051122</date>
     <category>Comedy</category>
@@ -9825,7 +9585,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060105</date>
     <category>Comedy</category>
@@ -9854,7 +9614,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060112</date>
     <category>Comedy</category>
@@ -9883,7 +9643,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060119</date>
     <category>Comedy</category>
@@ -9912,7 +9672,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060126</date>
     <category>Comedy</category>
@@ -9941,7 +9701,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060202</date>
     <category>Comedy</category>
@@ -9970,7 +9730,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060209</date>
     <category>Comedy</category>
@@ -9999,7 +9759,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060302</date>
     <category>Comedy</category>
@@ -10056,7 +9816,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910123</date>
@@ -10083,7 +9843,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910130</date>
@@ -10110,7 +9870,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910206</date>
@@ -10164,7 +9924,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20040428</date>
@@ -10193,7 +9953,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041117</date>
@@ -10222,7 +9982,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041201</date>
@@ -10251,7 +10011,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20041208</date>
@@ -10280,7 +10040,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050309</date>
@@ -10309,7 +10069,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050316</date>
@@ -10520,7 +10280,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050323</date>
@@ -10549,7 +10309,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050330</date>
@@ -10578,7 +10338,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050406</date>
@@ -10607,7 +10367,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050413</date>
@@ -10636,7 +10396,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20050420</date>
@@ -10665,7 +10425,7 @@
       <director>Trey Parker</director>
       <actor>Matthew Stone</actor>
       <writer>Nancy M. Pimental</writer>
-      <producer>Bruce Howell</producer>
+      <producer>Adrien Beard</producer>
       <composer>Jamie Dunlap</composer>
     </credits>
     <date>20051019</date>
@@ -10694,7 +10454,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910213</date>
@@ -10721,7 +10481,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910404</date>
@@ -10748,7 +10508,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910411</date>
@@ -10775,7 +10535,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910418</date>
@@ -10802,7 +10562,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910425</date>
@@ -10829,7 +10589,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910502</date>
@@ -10856,7 +10616,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910516</date>
@@ -10883,7 +10643,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910523</date>
@@ -10910,7 +10670,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910626</date>
@@ -10937,7 +10697,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19910918</date>
@@ -10964,7 +10724,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060316</date>
     <category>Comedy</category>
@@ -10993,7 +10753,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060330</date>
     <category>Comedy</category>
@@ -11013,56 +10773,6 @@
       <value>66/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="disney-channel">
-    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Style Queen: The Queen's Battle - Part One</sub-title>
-    <desc>Chloe's mother gets akumatized into Style Queen after being humiliated by Gabriel Agreste. Determined to get revenge and armed with a specter, she attacks Adrien. Without Cat Noir to help her, Ladybug will try to stop her.</desc>
-    <credits>
-      <director>Thomas Astruc</director>
-      <producer>Jérémy Zag</producer>
-      <composer>Jeremy Zag</composer>
-    </credits>
-    <date>20181106</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="disney-channel">
-    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Queen Wasp: The Queen's Battle - Part Two</sub-title>
-    <desc>Chloe gets akumatized into Queen Wasp after transforming into Queen Bee to try and impress her mother. Ladybug and Cat Noir will try to stop this superhero turned supervillain.</desc>
-    <credits>
-      <director>Thomas Astruc</director>
-      <producer>Jérémy Zag</producer>
-      <composer>Jeremy Zag</composer>
-    </credits>
-    <date>20181016</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E23</episode-num>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="disney-channel">
     <title lang="en">Sofia the First</title>
@@ -11193,7 +10903,7 @@
     <desc>Team Spidey must use their new glow tech to stop Electro from draining all the power in the city; Spidey and Iron Man work together to stop Black Cat from making a mess of things when she steals Iron Man's Armor.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20220819</date>
     <category>Action/Adventure</category>
@@ -11448,7 +11158,7 @@
     <desc>Chip Whistler and Bill hit it off and become friends at Farm Con. Cricket stumbles into having one hundred dollars and immediately buys into a pyramid scheme.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200801</date>
@@ -11472,7 +11182,7 @@
     <desc>A young Bill is willing to go to any length to ensure that the family farm stays in business. Tilly and Nancy are determined to be seated next to Cantaloupe Sinclair at Saxon's birthday celebration in a fancy doll store.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200808</date>
@@ -11695,7 +11405,7 @@
     <desc>When Bill sneaks out at night with a mysterious duffel bag, the kids hide in his truck; Cricket impulsively buys a giant pet snake.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190119</date>
@@ -11719,7 +11429,7 @@
     <desc>Bill and Nancy prep a special harvest dinner; At the local community center, Tilly wants to win a trophy and begins training with the center's director.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190112</date>
@@ -11771,7 +11481,7 @@
     <desc>To impress his new neighbors, Cricket attempts to launch a chicken into space; the Greens are excited to continue their traditional monthly steak dinner, but Cricket accidentally loses the steaks on the subway.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180618</date>
@@ -11795,7 +11505,7 @@
     <desc>Cricket must wrestle a wild animal in order to prove himself worthy of the Green family name; and Cricket persuades Bill to convert his pickup into a French fry food truck.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180619</date>
@@ -12245,7 +11955,7 @@
     <desc>Team Spidey has its hands full when Gobby's device turns Hulk into a baby; Spidey and Miles plan a birthday surprise for Ghost-Spider, but an endless stream of villains gets in the way.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20220930</date>
     <category>Action/Adventure</category>
@@ -12503,7 +12213,7 @@
     <desc>Cricket's crush Gabriella returns, so Remy seizes the opportunity to help push Cricket out of his comfort zone; the family wants to visit a street fair, but Bill wants to stay home to save money.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200729</date>
@@ -12527,7 +12237,7 @@
     <desc>When the Greens visit BigTech, Tilly jumps at the chance to test Gwendolyn Zapp's new technology, which promises to make them the "perfect family; Cricket wins tickets to a show and must decide whether to bring Tilly or Remy.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200729</date>
@@ -12749,7 +12459,7 @@
     <desc>Team Spidey must stop Green Goblin from spewing his green gas all over the park in order to make it safe for the trees again; after Peter's new invention begins swallowing everything in its path, he and Miles work to stop it.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20211203</date>
     <category>Action/Adventure</category>
@@ -12769,7 +12479,7 @@
     <desc>Spin's favorite fictitious creature might be real; Spidey and Hulk need to teach each other of their own powers after they got switched by Doc Ock.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20220318</date>
     <category>Action/Adventure</category>
@@ -12910,7 +12620,7 @@
     <desc>After her latest plan is foiled, Ock throws out her tentacle suit and Rhino takes over; Spidey's prize pumpkin becomes an unexpected threat.</desc>
     <credits>
       <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
+      <writer>Bart Jennett</writer>
     </credits>
     <date>20220506</date>
     <category>Action/Adventure</category>
@@ -13006,23 +12716,6 @@
   </programme>
   <programme start="20220627013500 +0000" stop="20220627020000 +0000" channel="disney-junior">
     <title lang="en">Spidey And His Amazing Friends</title>
-    <sub-title>Catch and Release; Construction Destruction</sub-title>
-    <desc>Miles' Father's Day fishing trip is interrupted by Doc Ock's plan to take over the harbor; Spidey, Hulk and Ms. Marvel get in over their heads when a squirrel wreaks havoc.</desc>
-    <credits>
-      <director>Chris Gilligan</director>
-      <writer>Claudia Silver</writer>
-    </credits>
-    <date>20220617</date>
-    <category>Action/Adventure</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11917454786.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11917454790.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20220627020000 +0000" stop="20220627022500 +0000" channel="disney-junior">
     <title lang="en">The Chicken Squad</title>
@@ -13223,34 +12916,13 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="disney-xd">
-    <title lang="en">Big Hero 6: The Series</title>
-    <sub-title>Baymax Returns Part I &amp; II</sub-title>
-    <desc>Teen tech genius Hiro begins school at the San Fransokyo Institute of Technology and sets off to rebuild Baymaz. But his penchant for shortcuts gets him and his newly minted Big Hero 6 team into trouble.</desc>
-    <credits>
-      <director>Stephen Heneveld</director>
-      <producer>Mark McCorkle</producer>
-    </credits>
-    <date>20171120</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9143607214.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9143607210.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="disney-xd">
     <title lang="en">Big City Greens</title>
     <sub-title>Space Chicken; Steak Night</sub-title>
     <desc>To impress his new neighbors, Cricket attempts to launch a chicken into space; the Greens are excited to continue their traditional monthly steak dinner, but Cricket accidentally loses the steaks on the subway.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180618</date>
@@ -13274,7 +12946,7 @@
     <desc>Gramma loses her driver's license after being involved in a car accident; and Cricket has issues with bears.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180622</date>
@@ -13298,7 +12970,7 @@
     <desc>Cricket Green and his family move from the country to Big City to live with Gramma; when Cricket and Bill accidentally disturb a nest of raccoons in the garage, they invade the house.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180702</date>
@@ -13322,7 +12994,7 @@
     <desc>While Cricket enjoys a parade, Gloria works at the coffee shop by herself; and Bill teaches Remy about self-reliance.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180711</date>
@@ -13346,7 +13018,7 @@
     <desc>Green's farm animals become zombie-like creatures during the night of the Blood Moon.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190613</date>
@@ -13371,7 +13043,7 @@
     <desc>When Cricket gets sick, his family steps in to fulfill his commitments for the day; the Green family's nemesis Chip Whistler shows up at the farmers' market in an attempt to steal business from them.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180730</date>
@@ -13395,7 +13067,7 @@
     <desc>When Big City faces a coffee bean shortage, Cricket and Gloria's boss, Ms. Cho, challenges them to retrieve one of a few remaining sacks of coffee; and when the Greens' dog, Phoenix, runs away from home, the family sets out to find her.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180808</date>
@@ -13419,7 +13091,7 @@
     <desc>When Bill sneaks out at night with a mysterious duffel bag, the kids hide in his truck; Cricket impulsively buys a giant pet snake.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190119</date>
@@ -13724,7 +13396,7 @@
     <desc>Gramma convinces the neighbors she's a witch and Bill throws a barbeque; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191123</date>
@@ -13748,7 +13420,7 @@
     <desc>Gloria gets stuck on an elevator with the Greens.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191130</date>
@@ -13772,7 +13444,7 @@
     <desc>"Reckoning Ball" – Convinced that Cricket and the Greens have ruined his life, Chip Whistler returns to exact his revenge.*Ed Begley Jr. ("Pineapple Express") guest stars as Mr. Whistler. Paul Scheer ("The League") returns as Chip Whistler."Clubbed" – When Gloria tells Tilly and Andromeda about her plans for a night on the town, the girls assume they're invited.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191214</date>
@@ -13796,7 +13468,7 @@
     <desc>Cricket is mistaken for a pop star and decides to exploit the situation for all the perks of fame; Remy and Cricket attend football camp in an attempt to impress Remy's dad.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200111</date>
@@ -13923,7 +13595,7 @@
     <desc>Cricket wins a role in Big Coffee's new TV commercial but loses his confidence; Bill trades in his pick-up for a state-of-the-art electric car.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191116</date>
@@ -13947,7 +13619,7 @@
     <desc>Gramma convinces the neighbors she's a witch and Bill throws a barbeque; Cricket's scheme to cash in on a wishing well snares Tilly, leaving Cricket with a dilemma.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191123</date>
@@ -14030,7 +13702,7 @@
     <desc>Cricket tries to avoid the dentist, while Bill struggles with a puzzle in the waiting room. Tilly and Andromeda have a sleepover and try to stay up all night.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190209</date>
@@ -14054,7 +13726,7 @@
     <desc>A scorned Tilly tries to make Gramma jealous; Gramma makes special biscuits for the kids when they're hurt, but won't make more when they're better.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20190223</date>
@@ -14078,7 +13750,7 @@
     <desc>Cricket wins a role in Big Coffee's new TV commercial but loses his confidence; Bill trades in his pick-up for a state-of-the-art electric car.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191116</date>
@@ -14102,7 +13774,7 @@
     <desc>Gloria gets stuck on an elevator with the Greens.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20191130</date>
@@ -14126,7 +13798,7 @@
     <desc>Cricket and Remy play a contentious game of "H-O-R-S-E" on the hottest day of the year; to avoid punishment, Cricket must make his rational dad believe in aliens.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200118</date>
@@ -14150,7 +13822,7 @@
     <desc>Gramma shares the story of her greatest adventure to the kids. The animals compete to know who rules the farm.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200208</date>
@@ -14174,7 +13846,7 @@
     <desc>Tilly looks for a new look to reflect her maturity. Crick persuades Billy to purchase a farming robot.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200624</date>
@@ -14198,7 +13870,7 @@
     <desc>Cricket's crush Gabriella returns, so Remy seizes the opportunity to help push Cricket out of his comfort zone; the family wants to visit a street fair, but Bill wants to stay home to save money.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200729</date>
@@ -14222,7 +13894,7 @@
     <desc>Cricket is having a hard time picking a gift for Remy's birthday; Cricket decides to live his life in shelter after almost getting into an accident.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200827</date>
@@ -14246,7 +13918,7 @@
     <desc>When Gloria's parents visit, she ropes the Greens into escalating lies about her success; Cricket goes on a quest to find the best pool in Big City.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20210123</date>
@@ -14270,7 +13942,7 @@
     <desc>Bill chaperones Cricket and Gabriella's first date; a disagreement between Cricket and Tilly turns into reality-TV-like entertainment for Gloria and Gramma.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20210213</date>
@@ -14294,7 +13966,7 @@
     <desc>Remy uses Cricket's antics to gain views and likes on a new video-sharing app. Then, when Cricket and Tilly learn that Gloria has an internship at the animation studio that produces their favorite cartoon, they beg her to bring them for a visit.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20210320</date>
@@ -14318,7 +13990,7 @@
     <desc>Bill pushes the family to embrace a "Live, Laugh, Love" philosophy; Gloria works hard to maintain her café's perfect rating.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20220212</date>
@@ -14343,7 +14015,7 @@
     <desc>Cricket is halted at a convenience store due to their "No Shoes, No Service" policy. When Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20220226</date>
@@ -14368,7 +14040,7 @@
     <desc>Cricket wants to prove to his family that he isn't dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20220312</date>
@@ -14392,7 +14064,7 @@
     <desc>Cricket must wrestle a wild animal in order to prove himself worthy of the Green family name; and Cricket persuades Bill to convert his pickup into a French fry food truck.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180619</date>
@@ -14416,7 +14088,7 @@
     <desc>Bill takes the family on a road trip to the country, only to wind up trapped in a traffic jam. Also: Tilly finds a bird's nest and cares for the eggs in hope that the chicks will think she's their mama, but the birds imprint on Cricket instead.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180627</date>
@@ -14440,7 +14112,7 @@
     <desc>Bill promises his family a trip to the mall food court, but it's really to a family portrait studio; Remy is caught skipping his violin lessons to hang out with Cricket.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180625</date>
@@ -14464,7 +14136,7 @@
     <desc>Tilly claims to have seen stone gargoyles come to life to impress a new friend; Cricket makes a deal on behalf of Bill with a major grocery chain.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180709</date>
@@ -14488,7 +14160,7 @@
     <desc>Cricket wants to see an adult romance movie over a child film; Gloria sets Cricket up with two difficult roommates for the night.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20180725</date>
@@ -14793,7 +14465,7 @@
     <desc>Cricket and Remy play a contentious game of "H-O-R-S-E" on the hottest day of the year; to avoid punishment, Cricket must make his rational dad believe in aliens.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200118</date>
@@ -14817,7 +14489,7 @@
     <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital. Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200624</date>
@@ -14841,7 +14513,7 @@
     <desc>Tilly looks for a new look to reflect her maturity. Crick persuades Billy to purchase a farming robot.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200624</date>
@@ -14865,7 +14537,7 @@
     <desc>Chip Whistler and Bill hit it off and become friends at Farm Con. Cricket stumbles into having one hundred dollars and immediately buys into a pyramid scheme.</desc>
     <credits>
       <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
+      <producer>Shane Houghton</producer>
       <composer>Joachim Horsley</composer>
     </credits>
     <date>20200801</date>
@@ -14881,50 +14553,6 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="diy-network">
-    <title lang="en">Salvage Dawgs</title>
-    <sub-title>Old Robeson County Jail</sub-title>
-    <desc>The guys go to North Carolina to salvage a 1950s jail. At the shop, Mike and Tay build a bar from bowling-alley flooring.</desc>
-    <credits>
-      <producer>Kirk Streb</producer>
-      <composer>Aaron Keane</composer>
-    </credits>
-    <date>20150628</date>
-    <category>Reality</category>
-    <category>Business</category>
-    <category>Collectibles</category>
-    <category>Entertainment</category>
-    <category>Home projects</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736007.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736010.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="diy-network">
-    <title lang="en">Salvage Dawgs</title>
-    <sub-title>Clapp Farm Windmill</sub-title>
-    <desc>The team are in Liberty, N.C., to salvage an Aeromotor windmill. Back at the shop, Mike builds a floor lamp from recovered barn wood and iron.</desc>
-    <credits>
-      <producer>Kirk Streb</producer>
-      <composer>Aaron Keane</composer>
-    </credits>
-    <date>20150705</date>
-    <category>Reality</category>
-    <category>Business</category>
-    <category>Collectibles</category>
-    <category>Entertainment</category>
-    <category>Home projects</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736007.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736010.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="diy-network">
@@ -15395,7 +15023,6 @@
     <sub-title>P.A. Denny Riverboat</sub-title>
     <desc>The team salvage a calliope from a riverboat in Parkersburg, W.Va., and split into teams to pick through the owner's large warehouse. At the shop, Courtney and Mike build a mirror from pieces of wall trim.</desc>
     <credits>
-      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20150719</date>
@@ -15417,7 +15044,6 @@
     <sub-title>Return to Geyser Gulch</sub-title>
     <desc>A return to Geyser Gulch at Silver Dollar City in Branson, Mo., brings new finds, including a birdhouse, water guns and hefty frying pans. Mike builds a garden arbor out of two doors back at the warehouse.</desc>
     <credits>
-      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20150712</date>
@@ -15439,7 +15065,6 @@
     <sub-title>Terracotta Silo</sub-title>
     <desc>A terra-cotta silo gives the guys fits in Bedford, Va.; and Mike visits the National D-Day Memorial with Tay and Grayson.</desc>
     <credits>
-      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20150712</date>
@@ -15461,7 +15086,6 @@
     <sub-title>Elks National Home</sub-title>
     <desc>The team are in Bedford, Va., to salvage parts from a lodge at the Elks National Home. Back in the shop, Mike builds a swing from a recovered apple crate and upholsters cushions.</desc>
     <credits>
-      <producer>Kirk Streb</producer>
       <composer>Aaron Keane</composer>
     </credits>
     <date>20150705</date>
@@ -15762,21 +15386,6 @@
     <episode-num system="xmltv_ns">11.8.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="e-network">
-    <title lang="en">The E! True Hollywood Story</title>
-    <sub-title>Clueless</sub-title>
-    <desc>A look at the movie "Clueless" (1995), writer/director Amy Heckerling's inventive update of Jane Austen's "Emma." Included: how the film catapulted Alicia Silverstone to fame.</desc>
-    <date>20011219</date>
-    <category>Documentary</category>
-    <category>Biography</category>
-    <category>Profile</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/10/1/10-425AFF39-B085-4B4E-B91D-440B662827EC.png" width="300" height="400"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10057835199.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017120000 +0000" channel="e-network">
@@ -17285,18 +16894,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/37.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221017083000 +0000" stop="20221017100000 +0000" channel="espn-20220618">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title>10-17-2022 -2</sub-title>
-    <desc>Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including 'Senior Night,' to recognize high-school and college athletes.</desc>
-    <date>20221017</date>
-    <category>Sports stuff</category>
-    <category>Highlights</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4216169712.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4216169735.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="espn-20220618">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
     <sub-title>10-17-2022 -2</sub-title>
@@ -17726,34 +17323,6 @@
   <programme start="20220627063000 +0000" stop="20220627073000 +0000" channel="espn-news">
     <title lang="en">30 for 30</title>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="espn2-20220717">
-    <title lang="en">TrueSouth</title>
-    <sub-title>St. Louis</sub-title>
-    <desc>We travel to the city on the cusp of the South to try everything St. Louis from their Italian hot salami sandwiches to an American cheeseburger cooked on a 1936 vintage grill.</desc>
-    <date>20211205</date>
-    <category>Sports stuff</category>
-    <category>Food</category>
-    <category>Travel</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7746910352.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7746910356.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="espn2-20220717">
-    <title lang="en">TrueSouth</title>
-    <sub-title>Madisonville</sub-title>
-    <desc>Our crew goes home with Allan Benton, proprietor of Benton's Smoky Mountain Country Hams, to get to know his wife Sharon and their children and grandchildren. We learn to bake biscuits with Sharon (and yes, we include her recipe). And to stir up a good gravy. More important, gathered in their kitchen, we get to witness the love and hard work that binds a man and a woman to their family, and their community.</desc>
-    <date>20221009</date>
-    <category>Sports stuff</category>
-    <category>Food</category>
-    <category>Travel</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7746910352.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7746910356.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017120000 +0000" channel="espn2-20220717">
     <title lang="en">Keyshawn, JWill and Max</title>
     <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
@@ -18087,30 +17656,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8535269358.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20221017073000 +0000" stop="20221017093000 +0000" channel="espnu-20220717">
-    <title lang="en">Women's College Soccer</title>
-    <sub-title>Florida at Kentucky</sub-title>
-    <desc>Florida at Kentucky.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="espnu-20220717">
-    <title lang="en">College Football 150: The Greatest</title>
-    <sub-title>Rivalry Games</sub-title>
-    <desc>Every season, college football rivals face off--and the intensity and passion are at a fever pitch. Some clashes have resulted in unforgettable games. These are the Top 11 of those quintessential, classic gridiron battles.</desc>
-    <credits>
-      <director>Jonathan Hock</director>
-    </credits>
-    <date>20191031</date>
-    <category>Documentary</category>
-    <category>Sports stuff</category>
-    <category>College</category>
-    <category>Football</category>
-    <category>Retrospective</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7712423020.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017140000 +0000" channel="espnu-20220717">
     <title lang="en">Keyshawn, JWill and Max</title>
     <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
@@ -18253,24 +17798,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7712423023.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E09</episode-num>
     <episode-num system="xmltv_ns">0.8.</episode-num>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="food-network">
-    <title lang="en">NEW Easiest &amp; Fastest Way to do Makeup</title>
-    <desc>NEW GetBreeze.com Look younger instantly w/ using 10 times less makeup, best coverage &amp; color match.</desc>
-    <date>20211109</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="food-network">
-    <title lang="en">Never Fear Power Outages</title>
-    <desc>In 2021, it is more important than ever before to be prepared for unexpected power outages. Trust the #1 brand in backup power today!</desc>
-    <date>20140507</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1556047444.jpg" width="240" height="360"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1679788271.jpg" width="240" height="180"/>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="food-network">
     <title lang="en">Paid Programming</title>
@@ -19163,13 +18690,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221017040000 +0000" stop="20221017100000 +0000" channel="fox-network">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017160000 +0000" channel="fox-network">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -19272,19 +18792,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="fox-news-hd">
-    <title lang="en">Fox and Friends First</title>
-    <sub-title>10-17-2022 -2</sub-title>
-    <desc>A precursor to Fox News's morning show, featuring the news and first looks at the other stories of the day.</desc>
-    <date>20221017</date>
-    <category>Talk</category>
-    <category>Current affairs</category>
-    <category>Newsmagazine</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10742285325.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6941697068.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S2022E415</episode-num>
-    <episode-num system="xmltv_ns">2021.414.</episode-num>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017130000 +0000" channel="fox-news-hd">
     <title lang="en">FOX &amp; Friends</title>
@@ -19973,25 +19480,6 @@
   <programme start="20220627053000 +0000" stop="20220627083000 +0000" channel="fox-sports-2-20220618">
     <title lang="en">NHRA Drag Racing</title>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="freeform-abc-family">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="freeform-abc-family">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-    <date>20220113</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="freeform-abc-family">
     <title lang="en">Paid Programming</title>
     <desc>Paid Programming.</desc>
@@ -20015,7 +19503,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130214</date>
     <category>Comedy</category>
@@ -20044,7 +19532,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130314</date>
     <category>Comedy</category>
@@ -20073,7 +19561,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130404</date>
     <category>Comedy</category>
@@ -20102,7 +19590,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130410</date>
     <category>Comedy</category>
@@ -20150,7 +19638,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20121025</date>
     <category>Comedy</category>
@@ -20179,7 +19667,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20100325</date>
     <category>Comedy</category>
@@ -20208,7 +19696,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20101028</date>
     <category>Comedy</category>
@@ -20544,7 +20032,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130425</date>
     <category>Comedy</category>
@@ -20573,7 +20061,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130502</date>
     <category>Comedy</category>
@@ -20602,7 +20090,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130502</date>
     <category>Comedy</category>
@@ -20631,7 +20119,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20130503</date>
     <category>Comedy</category>
@@ -20731,18 +20219,6 @@
       <value>64/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/64.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="fx-live">
-    <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="fx-live">
-    <title lang="en">Pilates Wheel</title>
-    <desc>This is one workout you'll look forward by building a strong, graceful body in just minutes a day! The Pilates Wheel makes it easy to look, and feel great!</desc>
-    <date>20220922</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="fx-live">
     <title lang="en">NEW Easiest &amp; Fastest Way to do Makeup</title>
@@ -20991,7 +20467,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20160502</date>
@@ -21017,7 +20493,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20161027</date>
@@ -21043,7 +20519,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20161103</date>
@@ -21153,23 +20629,6 @@
     <star-rating system="Metascore">
       <value>45/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221017070000 +0000" stop="20221017100000 +0000" channel="hbo-02032021">
-    <title lang="en">The Batman</title>
-    <desc>The continuing saga of Batman finds Bruce Wayne during his second year of secretly fighting crime in Gotham City. As he uncovers a sinister plot that has some connection with his family, Bruce as Batman faces new enemies like the Riddler and the Penguin while discovering an ambiguous ally in Selina Kyle, also known as Catwoman.</desc>
-    <date>20220303</date>
-    <category>Action/Adventure</category>
-    <category>Adaptation</category>
-    <category>Comic books</category>
-    <category>Superheroes</category>
-    <length units="seconds">10500</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-10121699462.jpg" width="487" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11390436552.jpg" width="720" height="708"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>72/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017114500 +0000" channel="hbo-02032021">
@@ -21681,52 +21140,6 @@
       <value>43/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/43.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="hgtv">
-    <title lang="en">House Hunters</title>
-    <sub-title>A Place for My Daughter in Virginia</sub-title>
-    <desc>A buyer wants to upgrade from his small rental in Norfolk, Virginia, to a home with a room for his young daughter, and a pool table. But along on the hunt is his future roommate and best friend, who has his own priorities in mind.</desc>
-    <credits>
-      <director>Kevin Cronan</director>
-      <producer>Jennifer Davidson</producer>
-      <composer>David Vanacore</composer>
-    </credits>
-    <date>20200507</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Behind-the-scenes</category>
-    <category>Home &amp; Garden</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10567352433.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10567352439.jpg" width="720" height="717"/>
-    <episode-num system="onscreen">S190E11</episode-num>
-    <episode-num system="xmltv_ns">189.10.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="hgtv">
-    <title lang="en">House Hunters</title>
-    <sub-title>Midcentury Perfection in Palm Springs</sub-title>
-    <desc>A lawyer is looking for a vacation home in Palm Springs, CA. She wants a midcentury modern home with all the bells and whistles, but after three years, her best friend and agent want her to decide before she gets priced out of the super-hot market.</desc>
-    <credits>
-      <director>Kevin Cronan</director>
-      <producer>Jennifer Davidson</producer>
-      <composer>David Vanacore</composer>
-    </credits>
-    <date>20200612</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Behind-the-scenes</category>
-    <category>Home &amp; Garden</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10567352433.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10567352439.jpg" width="720" height="717"/>
-    <episode-num system="onscreen">S190E12</episode-num>
-    <episode-num system="xmltv_ns">189.11.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="hgtv">
     <title lang="en">Steal This House</title>
@@ -22455,21 +21868,6 @@
     <episode-num system="xmltv_ns">5.1.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="history-channel">
-    <title lang="en">Humana Medicare Advantage Plans</title>
-    <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="history-channel">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="history-channel">
@@ -23206,33 +22604,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017090200 +0000" channel="lifetime-tv">
-    <title lang="en">Lifetime Programming</title>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221017090200 +0000" stop="20221017093200 +0000" channel="lifetime-tv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017093200 +0000" stop="20221017100000 +0000" channel="lifetime-tv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="lifetime-tv">
     <title lang="en">Creflo Dollar</title>
     <sub-title>Creflo Dollar</sub-title>
@@ -23450,7 +22821,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -23481,7 +22852,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -23512,7 +22883,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -23543,7 +22914,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -24004,7 +23375,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -24035,7 +23406,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -24066,7 +23437,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -24097,7 +23468,7 @@
     <credits>
       <director>Rob Bowman</director>
       <actor role="Hayley">Toks Olagundoye</actor>
-      <writer>Rob Hanning</writer>
+      <writer>Terence Paul Winter</writer>
       <producer>Howard Grigsby</producer>
       <composer>Mark Kilian</composer>
     </credits>
@@ -24120,12 +23491,6 @@
       <value>56/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="msnbc">
-    <title lang="en">Way Too Early with Jonathan Lemire</title>
-    <sub-title>10-17-2022</sub-title>
-    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
-    <date>20220000</date>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017130000 +0000" channel="msnbc">
     <title lang="en">Morning Joe</title>
@@ -24482,67 +23847,12 @@
     <episode-num system="xmltv_ns">10.75.</episode-num>
     <live/>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Chanel and Sterling CDLI</sub-title>
-    <desc>Rob, Chanel and Steelo search for the truth among "Bold Faced Liars," empty their pockets in "Junk Drawers," and shop at "Inconvenience Stores."</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20220408</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S23E69</episode-num>
-    <episode-num system="xmltv_ns">22.68.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Ray J</sub-title>
-    <desc>Ray J helps break down outrageous viral videos.</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20130801</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="mtv">
     <title lang="en">Ridiculousness</title>
     <sub-title>Chanel and Sterling CDLXXV</sub-title>
     <desc>Rob, Chanel, and Steelo deal with young money in 'Bougie Babies,' get trapped in the house with animals in 'The Wild Indoors,' and lose their phones for good in 'Off the Grid.'</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24569,7 +23879,6 @@
     <desc>Rob, Chanel, and Steelo eat through their nose in THE OTHER MOUTH, take too many hits in CHRONIC PAIN, and attempt to achieve centeredness in BALANCING ACTS.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24595,7 +23904,6 @@
     <desc>NASCAR racer Darrell "Bubba" Wallace Jr. helps with "Trading Paint," "Next Level Games" and "Street Heat."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24622,7 +23930,6 @@
     <desc>Rob, Chanel, and Steelo warn people to watch their backs in On Your 6, take a hit to the wallet from some Tab Destroyers, and deal with the growing Generation Gap.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24648,7 +23955,6 @@
     <desc>Rob, Steelo, and Chanel see who's Following Thru, get swept up in Mattress Mayhem, and find out who's saying Those Three Little Words.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24675,7 +23981,6 @@
     <desc>Fashion blogger and plus-size advocate Margie Plus joins Rob, Chanel, and Steelo to experience the dangers of neon in "Die-Lighters" and see best friend loyalty in "Ride or Dies."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -24982,7 +24287,6 @@
     <desc>Rob Dyrdek hosts an internet video clip show with celebrity guests and co-hosts Sterling "Steelo" Brim and Chanel West Coast (Fantasy Factory's rapping receptionist).</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25009,7 +24313,6 @@
     <desc>Rob, Chanel, and Steelo ruin the flow with some 'Stream Killers', take a road trip along 'the Scenic Route,' and warn everyone not to mess with 'Zap Lines.'</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25036,7 +24339,6 @@
     <desc>Rob, Chanel and Steelo try to get to the bottom of some Supernatural Sightings, check out tan lines so extreme they make people Part Ghost and debate whether their fear reactions would be Fight Or Flight.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25063,7 +24365,6 @@
     <desc>Redfoo helps with "Legends of Campfoo," "Lights Out" and "Party Rock'd."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25090,7 +24391,6 @@
     <desc>Rob, Chanel, and Steelo meet some people devoid of joy in Born Grouchy, get rescued by bffs in Friend Team Six, and witness mile high madness in Airplanes Are the New Bus.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25117,7 +24417,6 @@
     <desc>Rob, Chanel, and Steelo get caught up with Parking Lot Predators, find a better way of doing things with This Is The New Way and discover the best urinators with MVPees.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25144,7 +24443,6 @@
     <desc>Puma Robinson joins Rob, Chanel, and Steelo to meet some nightmare tattoo clients in "Tatt S*** Crazy" and put marriages to the test in "Vow Testers."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25171,7 +24469,6 @@
     <desc>Rob, Chanel and Steelo lend an ear in 'Good Listeners,' slide hard in 'Rail Riders', and tear it up in 'Grip It and Rip It..'</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25198,7 +24495,6 @@
     <desc>Rob, Chanel, and Steelo warm up their arms with Terrible Tosses, ruffle the feathers of some Angry C, and take in an evening of Rooftop Theater.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25225,7 +24521,6 @@
     <desc>Boxer Floyd Mayweather Jr. helps the host break down clips of outrageous viral videos.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25252,7 +24547,6 @@
     <desc>Things get gross with "Ass Masters," "Boogie Knights" and "Mother Birding."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25279,7 +24573,6 @@
     <desc>Included: "No Look Slaps"; "Sensi-Button"; and "The Circle of Life."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25306,7 +24599,6 @@
     <desc>Kevin Hart joins Rob, Chanel and Steelo to talk about his new movie "Night School," treat their "Learning Herpes," and run from some "Big Ass Man."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25333,7 +24625,6 @@
     <desc>Rob, Chanel, and Steelo learn the wrong way in HOW DON'TS, try to figure out A BAD SIGN, and remain calm in CHAOS COOL.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25360,7 +24651,6 @@
     <desc>Motocross superstar Axell Hodges joins Rob, Steelo, and Chanel to get hyped with some ENERGY MONSTERS, have some FUN ON THE CLOCK and find out what can go wrong when DAD'S IN CHARGE.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25387,7 +24677,6 @@
     <desc>Rob, Steelo, and Chanel watch criminals get ROBJECTED; get grossed out by some HYGIENE HIJACKERS, and learn new tricks ;n ANIMAGICAL.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25414,7 +24703,6 @@
     <desc>Rob, Chanel, and Steelo tear it down in Destruction Sites, check out some good deeds gone bad in Best, and learn that some people are always Down To Frown.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25441,7 +24729,6 @@
     <desc>Included: "Getting Donkey'd"; "Dental Danger"; and "Whiskey Pets."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25468,7 +24755,6 @@
     <desc>Rob, Chanel, and Steelo deliver some 'Straight Shade,' hire some 'Handy Bros' and set an alarm for 'Not Dead Just Tired.'</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25495,7 +24781,6 @@
     <desc>Rob, Chanel, and Steelo cash in their tokens for some 'Arcade Fire,' have a run-in with 'Intense Individuals,' and get lost in a 'Phone Fog.'</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25522,7 +24807,6 @@
     <desc>Rob's pal Christopher "Big Black" Boykin joins the panel. Included: videos of makeshift thrill rides.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25549,7 +24833,6 @@
     <desc>Rob, Chanel, and Steelo swap places as Chanel teaches that "Cute Kills," Steelo warns about "Death Carts" and Rob shows how people get down with "PPP."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25576,7 +24859,6 @@
     <desc>Rob, Chanel, and Steelo talk about innovative parkers known as "Spot Makers"; the evolution of pranks with "Modern Pranks"; and a long-overdue "Tribute to Jeffs."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25603,7 +24885,6 @@
     <desc>Hip-hop star Vic Mensa joins Rob, Chanel and Steelo to check out some close calls in "Still Alive," learn creative ways to "Save More Money" and get extra strange with "A Lot Going On."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25630,7 +24911,6 @@
     <desc>Rob, Chanel and Steelo fall for some "Animal Pranks," grab their sleeping bags for "Pajama-Rama," and witness the damage when "I Can't Drive A Stick."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25657,7 +24937,6 @@
     <desc>Rob, Chanel, and Steelo talk about the worst pests in our neighborhoods: Trash Monsters, doing things that are Perfectly Pointless, and when adults visit a playground, things can get Dangerously Fun.</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25684,7 +24963,6 @@
     <desc>Iliza Shlesinger observes the drunken "Party Goblin" phenomena; and shares her "Pupsession."</desc>
     <credits>
       <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
       <producer>Shanna Zablow</producer>
       <composer>Michael Baiardi</composer>
       <guest>Juicy J</guest>
@@ -25956,28 +25234,6 @@
       <value>57/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="national-geographic">
-    <title lang="en">Gordon Ramsay: Uncharted</title>
-    <sub-title>The Great Smoky Mountains</sub-title>
-    <desc>Chef Ramsay attempts to unlock the secrets of America's bountiful Smoky Mountains.</desc>
-    <credits>
-      <director>Betsy Forhan</director>
-      <composer>Amy Marie Beauchamp</composer>
-    </credits>
-    <date>20210704</date>
-    <category>Action/Adventure</category>
-    <category>Cooking</category>
-    <category>Food</category>
-    <category>Travel</category>
-    <category>Local cultures</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10107097867.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10107097863.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="national-geographic">
     <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
@@ -27200,60 +26456,6 @@
   <programme start="20220627070000 +0000" stop="20220627080000 +0000" channel="nhl-network">
     <title lang="en">NHL Tonight</title>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="nickelodeon">
-    <title lang="en">Friends</title>
-    <sub-title>The One with the Vows</sub-title>
-    <desc>Monica and Chandler's frantic race to figure out the perfect wedding vows leads to a series of nostalgic clips from episodes past, encapsulating their relationship. Chandler: Matthew Perry. Ross: David Schwimmer. Monica: Courteney Cox Arquette.</desc>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor role="David">Hank Azaria</actor>
-      <writer>Gary Halvorson</writer>
-      <producer>Wendy Knoller</producer>
-      <composer>Ian Christian Nickus</composer>
-    </credits>
-    <date>20010503</date>
-    <category>Comedy</category>
-    <category>Romance</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9006171376.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9006171369.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S07E21</episode-num>
-    <episode-num system="xmltv_ns">6.20.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="nickelodeon">
-    <title lang="en">Friends</title>
-    <sub-title>The One with Chandler's Dad</sub-title>
-    <desc>Monica drags Chandler to see his much mentioned, but never-before-seen, cross-dressing dad (Kathleen Turner) in his Vegas cabaret act; Ross rides shotgun for Rachel's less-than-joyful joyride in Monica's Porsche; Joey discovers the pleasure of wearing women's underwear. Jake: Troy Norton. Phoebe: Lisa Kudrow.</desc>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor role="David">Hank Azaria</actor>
-      <writer>Gary Halvorson</writer>
-      <producer>Wendy Knoller</producer>
-      <composer>Ian Christian Nickus</composer>
-    </credits>
-    <date>20010510</date>
-    <category>Comedy</category>
-    <category>Romance</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9006171376.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9006171369.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S07E22</episode-num>
-    <episode-num system="xmltv_ns">6.21.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="nickelodeon">
     <title lang="en">Young Sheldon</title>
     <sub-title>A Therapist, a Comic Book and a Breakfast Sausage</sub-title>
@@ -27289,8 +26491,8 @@
     <desc>SpongeBob takes pity on what he---and everyone else in Bikini Bottom---thinks is a monster, but is really an unrecognizable Squidward. Later, SpongeBob tries out some newly learned magic tricks on Squidward.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20070115</date>
@@ -27316,7 +26518,7 @@
     <desc>Rocky and the Pups are fixing an Old-Timey Junk Car for Ace Sorensen's Birthday. Adventure Bay is working hard to earn the record for having the world's highest tower of pizzas</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27340,7 +26542,7 @@
     <desc>Marshal befriends a gosling and names it Fuzzy; Mayor Goodway accidentally goes aloft in a hot-air balloon, necessitating a rescue.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27364,7 +26566,7 @@
     <desc>A playful dragon gets out of one of Alex's books and the pups need to get it back; Francois' trailer becomes unhooked and all of the critters get loose.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27388,7 +26590,7 @@
     <desc>A mix-up delivery leads to Ms. Marjorie and Danny speeding out of control in Adventure Bay; and Ryder's present ends up in the jungle as Carlos gets trapped in a jungle gym.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27413,7 +26615,7 @@
     <desc>Polar bear cubs get lost at sea, so Everest leads a rescue and helps lure the cubs back to shore; Marshall poses as a sheep to solve a mystery involving Farmer Al's disappearing lambs.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27437,7 +26639,7 @@
     <desc>An ancient relic goes missing from Carlos' archeological dig, and Tracker and Skye must track down the creature that may have taken it; Mayor Humdinger pretends to break his toe in order to win a race.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27461,7 +26663,7 @@
     <desc>Rubble dreams that he has been taken aboard an alien spaceship.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27486,7 +26688,7 @@
     <desc>A mysterious kid in a giant spider costume takes all the treats from the trick-or-treaters during Halloween in Adventure Bay; Alex and his Mini-Patrol accidentally take off on Daring Danny's rocket bike.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27559,7 +26761,7 @@
     <desc>The Paw Patrol help Farmer Yumi and Farmer Al. Alex and Mr. Porter get into a sticky situation.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27583,7 +26785,7 @@
     <desc>In the third-season opener, Rubble finds a genie and is granted three wishes, but the genie's magic isn't perfected yet; and a tightrope walker needs help when a flock of seagulls get in his way.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27651,7 +26853,7 @@
     <desc>Chickaletta gains super powers and Ladybird comes back; The Mighty Twins and the Mighty Pups work together in saving a giant chicken; The Mighty Pups must put a stop to Harold Humdinger's plan.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27675,7 +26877,7 @@
     <desc>The Ladybird is up to her old tricks again; Mayor Humdinger finally gets superpowers!</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -27699,8 +26901,8 @@
     <desc>SpongeBob and Patrick unintentionally infuriate the Flying Dutchman, so he turns them into ghosts; SpongeBob shares a locker with Squidward.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20100328</date>
@@ -27726,8 +26928,8 @@
     <desc>Everyone participates in a worm-sled race to the South Pole.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20191123</date>
@@ -27754,8 +26956,8 @@
     <desc>Squidward ventures to Nosferatu's castle after accidentally receiving his mail; Nosferatu's minion Slappy kills some time around Bikini Bottom.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20221014</date>
@@ -28060,7 +27262,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19911211</date>
@@ -28087,7 +27289,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19920115</date>
@@ -28114,7 +27316,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19920226</date>
@@ -28141,7 +27343,7 @@
       <director>Andy Ackerman</director>
       <actor role="Russell Dalrimple">Bob Balaban</actor>
       <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
+      <producer>Suzy Mamann-Greenberg</producer>
       <composer>Jonathan Wolff</composer>
     </credits>
     <date>19921118</date>
@@ -28167,7 +27369,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -28193,7 +27395,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -28219,7 +27421,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -28245,7 +27447,7 @@
     <credits>
       <director>James Burrows</director>
       <actor role="Grandma">Cleo King</actor>
-      <writer>Bill Daly</writer>
+      <writer>Alan J. Higgins</writer>
       <producer>Mona Garcea</producer>
       <composer>Grant Geissman</composer>
     </credits>
@@ -28299,8 +27501,8 @@
     <desc>SpongeBob adopts a worm who has babies overnight, so he must find more adoptive families; Plankton gets fed up with Karen's criticisms and tries to replace her.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20090321</date>
@@ -28326,7 +27528,7 @@
     <desc>The gang turn into Mer-Pups in order to rescue their new pals who live in the ocean.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28351,7 +27553,7 @@
     <desc>Matea tries to help Rocky, who has lost his voice; the Merpups return to assist with a rescue.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28375,7 +27577,7 @@
     <desc>A thunder storm causes a blackout in Adventure Bay, and a scared Corny runs away from the farm; Uncle Otis and his Golden Nugget are in danger, hurtling down Jake's Mountain in a runaway mine car.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28399,7 +27601,7 @@
     <desc>A monkey gets free from its cage and runs wild throughout the town; a baby owl is rescued and reunited with its mom.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28423,7 +27625,7 @@
     <desc>The pups must save the pup balloons, the parade and Mayor Humdinger; the Turbot cousins try to spot a rare spider but get stuck in its web and it's up to the pups to save the spider spies.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28447,7 +27649,7 @@
     <desc>When Mayor Humdinger disrupts Adventure Bay with his "barking" cats, the pups must save the town. Then, Cap'n Turbot loses his glasses and creates chaos in his path. It's up to the PAW Patrol to save him.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28472,7 +27674,7 @@
     <desc>The gang set up a stakeout to catch a ghost, but they realize the troublemaker is Marshall sleepwalking; the pups plan to put on a play with a medieval theme, but problems arise when a prop collapses and the lead actor must be replaced.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28496,7 +27698,7 @@
     <desc>Rocky goes missing at Uncle Otis' cabin and the team needs to solve the mystery of the Werepuppy; Mayor Goodway tries to brave the hazards of the ranch during Cowboy Day at the Wingnuts Dude Ranch.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28571,7 +27773,7 @@
     <desc>The Paw Patrol use their new Big Trucks and the help of their new pup pal Al to repair a dam before Adventure Bay is flooded.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28595,7 +27797,7 @@
     <desc>When Mayor Humdinger hijacks the big rig of Al, it is up to the Big Truck Pups to rescue him.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28665,7 +27867,7 @@
     <desc>When Ms. Marjorie brings her bookmobile to Everest and the kids of the mountains, Maynard accidentally sets the van rolling and goes off on a wild ride; Mayor Humdinger has been carving his face into the cliffs of Adventure Bay.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28689,7 +27891,7 @@
     <desc>Mayor Humdinger's trash-compacting truck is messing up the beach; it's up to Rocky's Re-Use It Truck to put the Princess' gifts back together.</desc>
     <credits>
       <director>Charles E. Bastien</director>
-      <writer>Kim Duran</writer>
+      <writer>Louise Moon</writer>
       <producer>Marilyn McAuley</producer>
       <composer>James Chapple</composer>
     </credits>
@@ -28714,8 +27916,8 @@
     <desc>Squidward gets a public-access TV show, and his friends are eager to join him on the air; Squidward attempts to sabotage SpongeBob's dance audition.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20090724</date>
@@ -28741,8 +27943,8 @@
     <desc>Patrick is thrilled to be offered a job as a sign-holder at Krusty Krab, but he has trouble wearing the required hat; SpongeBob and Patrick have fun in a new toy store, until they accidentally get locked in.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20090726</date>
@@ -28768,8 +27970,8 @@
     <desc>SpongeBob and Patrick encounter ghost pirates who are feuding with the Flying Dutchman.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20111021</date>
@@ -28796,8 +27998,8 @@
     <desc>Now that Fred's leg has healed up, SpongeBob is determined to keep it out of harm's way—no matter what; Patrick's lemonade stand isn't doing too well—until he gets a secret ingredient from Squidward.</desc>
     <credits>
       <director>Vincent Waller</director>
-      <writer>Dani Michaeli</writer>
-      <producer>Zeus Cervas</producer>
+      <writer>Kent Osborne</writer>
+      <producer>Stephen Hillenburg</producer>
       <composer>Jeremy Wakefield</composer>
     </credits>
     <date>20180512</date>
@@ -28857,22 +28059,6 @@
     <episode-num system="xmltv_ns">5.24.</episode-num>
     <rating system="VCHIP">
       <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="oxygen">
-    <title lang="en">Dateline</title>
-    <sub-title>Secrets of Lake Seminole</sub-title>
-    <desc>Authorities first believed Mike Williams drowned or was possibly eaten by alligators until his mother pressed law enforcement to reopen the case. Dennis Murphy reports</desc>
-    <date>20190127</date>
-    <category>Current affairs</category>
-    <category>Newsmagazine</category>
-    <category>Investigative journalism</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5288382845.jpg" width="481" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/7/1-11721922145.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S04E21</episode-num>
-    <episode-num system="xmltv_ns">3.20.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="oxygen">
@@ -29518,21 +28704,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="paramount-network-spike">
-    <title lang="en">Humana Medicare Advantage Plans</title>
-    <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="paramount-network-spike">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="paramount-network-spike">
     <title lang="en">True Crime: Identity Theft</title>
     <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
@@ -29717,7 +28888,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140120</date>
@@ -29743,7 +28914,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140127</date>
@@ -29769,7 +28940,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140203</date>
@@ -29795,7 +28966,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140102</date>
@@ -29822,7 +28993,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -29854,7 +29025,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -29886,7 +29057,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -29918,7 +29089,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -29950,7 +29121,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -29982,7 +29153,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30014,7 +29185,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30046,7 +29217,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30138,7 +29309,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060316</date>
     <category>Comedy</category>
@@ -30167,7 +29338,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060330</date>
     <category>Comedy</category>
@@ -30196,7 +29367,7 @@
       <director>Ricky Gervais</director>
       <actor role="Katie">Amy Adams</actor>
       <writer>Ricky Gervais</writer>
-      <producer>Ricky Gervais</producer>
+      <producer>Stephen Merchant</producer>
     </credits>
     <date>20060427</date>
     <category>Comedy</category>
@@ -30431,7 +29602,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140130</date>
@@ -30457,7 +29628,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140227</date>
@@ -30483,7 +29654,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140331</date>
@@ -30509,7 +29680,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20140414</date>
@@ -30536,7 +29707,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30568,7 +29739,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30600,7 +29771,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30632,7 +29803,7 @@
       <director>James Widdoes</director>
       <actor>Jane Lynch</actor>
       <writer>James Widdoes</writer>
-      <producer>Joe Bella</producer>
+      <producer>Susan Beavers</producer>
       <composer>Grant Geissman</composer>
       <editor>Joe Bella</editor>
     </credits>
@@ -30655,28 +29826,6 @@
       <value>67/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/67.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="science-channel">
-    <title lang="en">Mysteries of the Abandoned</title>
-    <sub-title>Kingdom of the Vanished</sub-title>
-    <desc>Featuring a mysterious town in the hills of South Africa that was once a booming community, but today, the eerie place is deserted. Experts reveal the cataclysm that caused the people of this once-prosperous town to suddenly leave and never come back.</desc>
-    <credits>
-      <director>Nick Chapman</director>
-      <actor>Saul David</actor>
-      <producer>Bruce Burgess</producer>
-      <editor>Andrew Gough</editor>
-    </credits>
-    <date>20191024</date>
-    <category>Documentary</category>
-    <category>Science</category>
-    <category>History</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10128194306.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9431287240.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="science-channel">
     <title lang="en">NASA's Unexplained Files</title>
@@ -32494,27 +31643,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221017080000 +0000" stop="20221017100000 +0000" channel="syfy">
-    <title lang="en">Sorority Row</title>
-    <desc>This gruesome slasher finds a group of sorority girls on the run from a serial killer after covering up a hazing prank that resulted in the death of a pledge. Carrie Fisher, Jamie Chung, Audrina Patridge.</desc>
-    <date>20090000</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Remake</category>
-    <length units="seconds">6060</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-172384916.jpg" width="499" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-5194988378.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>24/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/24.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="syfy">
     <title lang="en">Quantum Leap</title>
     <sub-title>Disco Inferno</sub-title>
@@ -33009,24 +32137,6 @@
     <star-rating system="Metascore">
       <value>26/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/26.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221017073000 +0000" stop="20221017100000 +0000" channel="tbs">
-    <title lang="en">Ted 2</title>
-    <desc>With the help of his best friend John, a sentient teddy bear named Ted fights to be legally recognized as a human so he can have a child with his new wife Tami-Lynn. This gut-busting comedy is a sequel to the 2012 surprise hit.</desc>
-    <date>20150828</date>
-    <category>Comedy</category>
-    <category>Sequel</category>
-    <length units="seconds">7020</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-1551409613.jpg" width="455" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-1551409620.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="tbs">
@@ -34663,13 +33773,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20221017040000 +0000" stop="20221017100000 +0000" channel="cw-02032021">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017160000 +0000" channel="cw-02032021">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -34791,34 +33894,10 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221017080000 +0000" stop="20221017100000 +0000" channel="tlc">
-    <title lang="en">90 Day Fiance: Before the 90 Days</title>
-    <sub-title>Bad Romance</sub-title>
-    <desc>Jasmine explodes over Gino's texts to his ex. Hamza has some bad news for Memphis. Ben attempts to track down Mahogany. Alina hopes Caleb can move past her secret. Mike considers popping the question to Ximena.</desc>
-    <credits>
-      <director>Não Informado</director>
-      <composer>Christian Szczesniak</composer>
-    </credits>
-    <date>20220206</date>
-    <category>Reality</category>
-    <category>Dating</category>
-    <category>Entertainment</category>
-    <category>Romance</category>
-    <category>Spin-off</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10887543380.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10887543373.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E09</episode-num>
-    <episode-num system="xmltv_ns">4.8.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="tlc">
     <title lang="en">The Jennifer Hudson Show</title>
     <sub-title>Episode 25</sub-title>
     <date>20220000</date>
-    <new/>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -35486,33 +34565,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221017085900 +0000" stop="20221017100000 +0000" channel="tnt">
-    <title lang="en">Charmed</title>
-    <sub-title>Happily Ever After</sub-title>
-    <desc>A wicked witch escapes from her confinement in a magic mirror and sets out to vanquish the sisters by using enchanted props from various fairy tales. Meanwhile, Piper conjures up the spirit of her dead grandmother for advice on how to prepare for her baby's birth. Adam: Sean Patrick Flanery. Grams: Jennifer Rhodes. Evil Witch: Natalija Nogulich. Piper: Holly Marie Combs. Paige: Rose McGowan. Phoebe: Alyssa Milano.</desc>
-    <credits>
-      <director>John T. Kretchmer</director>
-      <actor>Drew Fuller</actor>
-      <writer>Cameron Litvack</writer>
-      <producer>Jon Paré</producer>
-      <composer>J. Peter Robinson</composer>
-    </credits>
-    <date>20020929</date>
-    <category>Drama</category>
-    <category>Fantasy</category>
-    <category>Mystery &amp; Suspense</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1706192545.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/6/1-993559940.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>62/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="tnt">
     <title lang="en">Charmed</title>
@@ -36247,25 +35299,6 @@
     <desc>Discussing upcoming NBA action, plus interviews, features and highlights.</desc>
     <live/>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="travel-channel">
-    <title lang="en">Whiter Teeth Now!</title>
-    <desc>Dr. Martin Giniger's Power Swabs are conveniently designed to give you the ultimate home teeth whitening experience at a professional level, free from messy whitening strips and annoying trays.</desc>
-    <date>20220114</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="travel-channel">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="travel-channel">
     <title lang="en">Home Title Lock</title>
     <desc>When a criminal fraudulently transfers your home title to a fake identity and steals your title, no one will notify you. Not your county, not the police, not even your bank. Home Title Lock protects your title 24/7 from this this fast-growing crime.</desc>
@@ -36713,28 +35746,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10562669127.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S01E01</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="trutv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="trutv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -37768,62 +36779,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="tvland">
-    <title lang="en">The Goldbergs</title>
-    <sub-title>Happy Mom, Happy Life</sub-title>
-    <desc>Dana and Adam are given a doll to parent for a school project, but end up in jeopardy of failing because of Beverly's "grand-smothering." Meanwhile, Erica tries to get back at Barry for monopolizing her best friend's time by joining the JTP, however her plan doesn't go as expected.</desc>
-    <credits>
-      <director>David Katzenberg</director>
-      <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
-      <producer>Doug Robinson</producer>
-      <composer>Michael Wandmacher</composer>
-    </credits>
-    <date>20150304</date>
-    <category>Comedy</category>
-    <category>Coming of age</category>
-    <category>Satire</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="tvland">
-    <title lang="en">The Goldbergs</title>
-    <sub-title>The Lost Boy</sub-title>
-    <desc>Adam attends a Phillies game with his dad and ends up lost in the stadium after Murray allows him to leave his seat on his own. Elsewhere, Beverly's guilt trip backfires when Erica and Barry drive off without her during an argument on their way home from the mall.</desc>
-    <credits>
-      <director>David Katzenberg</director>
-      <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
-      <producer>Doug Robinson</producer>
-      <composer>Michael Wandmacher</composer>
-    </credits>
-    <date>20150325</date>
-    <category>Comedy</category>
-    <category>Coming of age</category>
-    <category>Satire</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E16</episode-num>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="tvland">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc>Outlines the specifics needed before enrolling in a Humana Medicare Advantage plan. The last day of the annual election period is Dec. 7th.</desc>
@@ -38580,7 +37535,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20150226</date>
@@ -38606,7 +37561,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20150226</date>
@@ -38632,7 +37587,7 @@
     <credits>
       <director>James Widdoes</director>
       <actor role="Tammy">Kristen Johnson</actor>
-      <writer>Eddie Gorodetsky</writer>
+      <writer>Susan McMartin</writer>
       <producer>Carol Anne Miller</producer>
     </credits>
     <date>20150416</date>
@@ -38708,7 +37663,7 @@
     <credits>
       <director>David Katzenberg</director>
       <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
+      <writer>Adam Goldberg</writer>
       <producer>Doug Robinson</producer>
       <composer>Michael Wandmacher</composer>
     </credits>
@@ -38736,7 +37691,7 @@
     <credits>
       <director>David Katzenberg</director>
       <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
+      <writer>Adam Goldberg</writer>
       <producer>Doug Robinson</producer>
       <composer>Michael Wandmacher</composer>
     </credits>
@@ -39093,41 +38048,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017100000 +0000" channel="usa-network">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Fight</sub-title>
-    <desc>A teenage girl's murder appears to be connected to the world of ultimate fighting when a fighter's DNA is found at the scene. But more evidence leads to two brothers (Gaius Charles, Arlen Escarpeta), who could be responsible for the death.</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Jamie Gray Hyder</actor>
-      <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
-      <composer>Mike Post</composer>
-      <editor>Jim Stewart</editor>
-    </credits>
-    <date>20071120</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Courtroom</category>
-    <category>Legal</category>
-    <category>Police</category>
-    <category>Spin-off</category>
-    <category>Troubled relationships</category>
-    <category>Workplace</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10466222308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7672478681.jpg" width="720" height="398"/>
-    <episode-num system="onscreen">S09E08</episode-num>
-    <episode-num system="xmltv_ns">8.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>66/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017110000 +0000" channel="usa-network">
     <title lang="en">NCIS</title>
@@ -39626,7 +38546,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39661,7 +38581,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39696,7 +38616,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39731,7 +38651,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39914,7 +38834,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39949,7 +38869,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -39984,7 +38904,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -40019,7 +38939,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -40087,7 +39007,7 @@
       <director>Dick Wolf</director>
       <actor>Jamie Gray Hyder</actor>
       <writer>Warren Leight</writer>
-      <producer>Peter Leto</producer>
+      <producer>David DeClerque</producer>
       <composer>Mike Post</composer>
       <editor>Jim Stewart</editor>
     </credits>
@@ -40113,46 +39033,6 @@
       <value>66/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20221017090000 +0000" stop="20221017093000 +0000" channel="vh1">
-    <title lang="en">Martin</title>
-    <sub-title>All the Players Came</sub-title>
-    <desc>To save a movie theater, Martin holds a benefit featuring black TV and movie actors from the 1970s. Cameos include Pam Grier, Ja'net DuBois, Dick Anthony Williams and Whitman Mayo. Martin Lawrence. Gina: Tisha Campbell.</desc>
-    <credits>
-      <director>Tony Singletary</director>
-      <actor role="Gloria Rodriguez">Angelina Estrada</actor>
-      <producer>Topper Carew</producer>
-    </credits>
-    <date>19950216</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7532747413.jpg" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7532747410.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E18</episode-num>
-    <episode-num system="xmltv_ns">2.17.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221017093000 +0000" stop="20221017100000 +0000" channel="vh1">
-    <title lang="en">Martin</title>
-    <sub-title>Best and Bester</sub-title>
-    <desc>Martin must choose either Tommy or Cole to be his best man; Pam and Gina search for a bridesmaid's dress. Martin Lawrence. Gina: Tisha Campbell. Tommy: Thomas Mikal Ford. Cole: Carl Anthony Payne II.</desc>
-    <credits>
-      <director>Tony Singletary</director>
-      <actor role="Gloria Rodriguez">Angelina Estrada</actor>
-      <producer>Topper Carew</producer>
-    </credits>
-    <date>19950223</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7532747413.jpg" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7532747410.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221017100000 +0000" stop="20221017103000 +0000" channel="vh1">
     <title lang="en">Martin</title>

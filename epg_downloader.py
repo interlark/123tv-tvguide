@@ -253,16 +253,17 @@ async def download_program_tags(channels):
 
     data = await download_with_retries(url, headers, loader=loader,
                                        timeout=30, timeout_increment=5, timeout_max=60)
-    programs_new = {k for k, v in data.items() if v & 0b100}
-    programs_live = {k for k, v in data.items() if v & 0b1}
+    if data:
+        programs_new = {k for k, v in data.items() if v & 0b100}
+        programs_live = {k for k, v in data.items() if v & 0b1}
 
-    for channel in channels:
-        for program in channel['programs']:
-            if (program.id, program.start_timestamp) in programs_new:
-                program.tags.append('new')
+        for channel in channels:
+            for program in channel['programs']:
+                if (program.id, program.start_timestamp) in programs_new:
+                    program.tags.append('new')
 
-            if (program.id, program.start_timestamp) in programs_live:
-                program.tags.append('live')
+                if (program.id, program.start_timestamp) in programs_live:
+                    program.tags.append('live')
 
 
 @lru_cache

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20230105111628" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20230105123727" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
   <channel id="ae">
     <display-name>A&amp;E (AE)</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-dark-bg/ae.png" width="512" height="512"/>
@@ -332,28 +332,6 @@
     <display-name>WWE Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-dark-bg/wwe-network.png" width="512" height="512"/>
   </channel>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="ae">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="ae">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="ae">
     <title lang="en">David Jeremiah</title>
     <desc>A message of hope from David Jeremiah of Turning Point.</desc>
@@ -1178,17 +1156,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="abc">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="abc">
     <title lang="en">America This Morning</title>
     <desc>An early morning newscast covering breaking news and featuring trending stories and viral videos from overnight. Anchored by Mona Kosar Abdi and Andrew Dymburt.</desc>
-    <new/>
   </programme>
   <programme start="20230105120000 +0000" stop="20230105140000 +0000" channel="abc">
     <title lang="en">Good Morning America</title>
@@ -1754,76 +1724,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230105092800 +0000" stop="20230105103200 +0000" channel="amc">
-    <title lang="en">The Walking Dead</title>
-    <sub-title>Open Your Eyes</sub-title>
-    <desc>Carol pushes boundaries that make Daryl uncomfortable. Alpha and Beta have reservations about someone.</desc>
-    <credits>
-      <director>Michael E. Satrazemis</director>
-      <actor role="Dale">Jeffrey DeMunn</actor>
-      <writer>Angela Kang</writer>
-      <producer>Denise Huth</producer>
-      <composer>Bear McCreary</composer>
-    </credits>
-    <date>20191117</date>
-    <category>Drama</category>
-    <category>Suspense/Thriller</category>
-    <category>Horror</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11077603459.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11077603455.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S10E07</episode-num>
-    <episode-num system="xmltv_ns">9.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>48/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/48.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105103200 +0000" stop="20230105105500 +0000" channel="amc">
-    <title lang="en">The Three Stooges</title>
-    <sub-title>All the World's a Stooge</sub-title>
-    <credits>
-      <director>Jules White</director>
-      <actor>Curly Joe DeRita</actor>
-      <producer>Jules White</producer>
-      <editor>Robert Carlisle</editor>
-    </credits>
-    <date>20220709</date>
-    <category>Comedy</category>
-    <category>Pop culture classic</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172451592.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4803532744.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230105105500 +0000" stop="20230105110000 +0000" channel="amc">
-    <title lang="en">The Three Stooges</title>
-    <sub-title>Hoi Polloi</sub-title>
-    <desc>The boys are part of an environment-vs.-heredity experiment in "Hoi Polloi." Harry Holmes, Robert Graves, Moe Howard.</desc>
-    <credits>
-      <director>Jules White</director>
-      <actor>Curly Joe DeRita</actor>
-      <producer>Jules White</producer>
-      <editor>Robert Carlisle</editor>
-    </credits>
-    <date>20040506</date>
-    <category>Comedy</category>
-    <category>Pop culture classic</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172451592.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4803532744.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="amc">
     <title lang="en">True Crime: Identity Theft</title>
     <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
@@ -2321,33 +2221,6 @@
       <value>52/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/52.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="animal-planet-20211102">
-    <title lang="en">River Monsters</title>
-    <sub-title>Killer Snakehead</sub-title>
-    <desc>Wade hunts for a snakehead, a dangerous fish that can reportedly crawl on land.</desc>
-    <credits>
-      <director>Luke Wiles</director>
-      <writer>Dominic Weston</writer>
-      <producer>Patrick Keegan</producer>
-      <composer>Timo Baker</composer>
-    </credits>
-    <date>20100502</date>
-    <category>Action/Adventure</category>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Animals</category>
-    <category>Fishing</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Nature</category>
-    <category>Outdoors</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8002180997.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8002180999.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="animal-planet-20211102">
     <title lang="en">Cats 101</title>
@@ -3191,33 +3064,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="bbc-america">
-    <title lang="en">Star Trek: The Next Generation</title>
-    <sub-title>Hide and 'Q'</sub-title>
-    <desc>The crew meets up with the enigmatic Q (John de Lancie), who forces them to participate in a deadly game that pits the players against fanged creatures. Picard: Patrick Stewart. Riker: Jonathan Frakes. Geordi: LeVar Burton. Wesley: Wil Wheaton. Worf: Michael Dorn. Data: Brent Spiner.</desc>
-    <credits>
-      <director>Cliff Bole</director>
-      <actor role="Dr. Elissa Ogawa">Patti Yasutake</actor>
-      <producer>Ronald D. Moore</producer>
-      <composer>Ron Jones</composer>
-    </credits>
-    <date>19871123</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1685627262.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/7/1-10772619450.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="bbc-america">
     <title lang="en">The Three Stooges</title>
     <sub-title>An Ache in Every Stake</sub-title>
@@ -3707,44 +3553,6 @@
       <value>67/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/67.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="bet">
-    <title lang="en">Living Single</title>
-    <sub-title>Raw Talent</sub-title>
-    <desc>Synclaire flaunts her acting skills as the show-stopper in a play calling for her to appear nude. Naughty by Nature appear. Aaron: Tom Chick. Fat Man with Camera: Paul Bates. Lady in Heels: Carole Goldman. Overton: John Henton.</desc>
-    <credits>
-      <director>Ellen Gittelsohn</director>
-      <actor role="Tripp">Mel Jackson</actor>
-    </credits>
-    <date>19950427</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7530483272.JPEG" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7530483273.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E24</episode-num>
-    <episode-num system="xmltv_ns">1.23.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="bet">
-    <title lang="en">Living Single</title>
-    <sub-title>To Grandmother's House We Go</sub-title>
-    <desc>While Khadijah is keeping an eye on her grandmother, the woman sneaks away---to be with a man (Lou Myers). Rita: Rita Owens. Laverne: Chip Hurd. Khadijah: Queen Latifah.</desc>
-    <credits>
-      <director>Ellen Gittelsohn</director>
-      <actor role="Tripp">Mel Jackson</actor>
-    </credits>
-    <date>19950504</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7530483272.JPEG" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7530483273.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="bet">
     <title lang="en">Martin</title>
@@ -4896,25 +4704,6 @@
       <value>36/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/36.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="bravo">
-    <title lang="en">Car Accident? Free Legal Consultation.</title>
-    <desc>Legal professionals standing by to answer your questions.</desc>
-    <date>20210611</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="bravo">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="bravo">
     <title lang="en">Million Dollar Listing Los Angeles</title>
@@ -6506,13 +6295,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="cbs">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="cbs">
     <title lang="en">CBS Morning News</title>
     <sub-title>01-05-2023</sub-title>
@@ -6523,7 +6305,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8427364070.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S2023E04</episode-num>
     <episode-num system="xmltv_ns">2022.3.</episode-num>
-    <new/>
   </programme>
   <programme start="20230105113000 +0000" stop="20230105120000 +0000" channel="cbs">
     <title lang="en">Local Programming</title>
@@ -7008,13 +6789,6 @@
     <desc>Local programming.</desc>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="cmt-country-music-television">
-    <title lang="en">CMT Music Videos</title>
-    <desc>Music videos from country music's biggest names, iconic artists, and rising stars are featured.</desc>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="cmt-country-music-television">
@@ -8452,17 +8226,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="cnbc-2">
-    <title lang="en">Worldwide Exchange</title>
-    <desc>The latest business news and market analysis from around the world is reported.</desc>
-    <category>Business</category>
-    <category>Finance</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4620427399.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-4620427404.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105140000 +0000" channel="cnbc-2">
     <title lang="en">Squawk Box</title>
     <desc>A show featuring "pre-market" updates and a discussion with well-known people from the world of business and politics.</desc>
@@ -8927,15 +8690,9 @@
     <desc>Covering after-hours moves including corporate earnings &amp; post-market trading.</desc>
     <live/>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="cnn-02032021">
-    <title lang="en">Early Start with Christine Romans</title>
-    <desc>The day's news with Christine Romans.</desc>
-    <new/>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="cnn-02032021">
     <title lang="en">CNN This Morning</title>
     <desc>Stories from across the world and refreshing conversations with Don Lemon, Poppy Harlow, and Kaitlan Collins.</desc>
-    <new/>
   </programme>
   <programme start="20230105120000 +0000" stop="20230105130000 +0000" channel="cnn-02032021">
     <title lang="en">CNN This Morning</title>
@@ -9256,25 +9013,6 @@
     <episode-num system="onscreen">S2023E09</episode-num>
     <episode-num system="xmltv_ns">2022.8.</episode-num>
     <new/>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="comedy-central">
-    <title lang="en">Crepe Erase Ultra</title>
-    <desc>Crepe Erase Ultra visibly transforms your skin with 9 super hydrators! Tune in to see how Kate Walsh and Jane Seymour keep their skin so smooth. Dr. Ordon shares how you can visibly treat and repair the look of crepey skin. CrepeErase.com</desc>
-    <date>20201001</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="comedy-central">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="comedy-central">
     <title lang="en">Under Eye Bags? SOLUTION!</title>
@@ -11185,56 +10923,6 @@
       <value>84/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="disney-channel">
-    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Felix</sub-title>
-    <desc>Adrien and Marinette transform into superheroes and capture Akumas to save Paris.</desc>
-    <credits>
-      <director>Thomas Astruc</director>
-      <producer>Jérémy Zag</producer>
-      <composer>Jeremy Zag</composer>
-    </credits>
-    <date>20191113</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E24</episode-num>
-    <episode-num system="xmltv_ns">2.23.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="disney-channel">
-    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Ladybug</sub-title>
-    <desc>Lila manipulates all Marinette's close ones, who turn against her, but an even bigger problem awaits Marinette: she is going to have to face a sentimonster that has taken the appearance of Ladybug.</desc>
-    <credits>
-      <director>Thomas Astruc</director>
-      <producer>Jérémy Zag</producer>
-      <composer>Jeremy Zag</composer>
-    </credits>
-    <date>20190910</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animated</category>
-    <category>Other</category>
-    <category>Preteen</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211706613.jpg" width="541" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7997825425.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S03E20</episode-num>
-    <episode-num system="xmltv_ns">2.19.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="disney-channel">
     <title lang="en">Sofia the First</title>
@@ -13550,54 +13238,6 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="disney-xd">
-    <title lang="en">Big City Greens</title>
-    <sub-title>Fast Foodie / Spaghetti Theory</sub-title>
-    <desc>Cricket tries to prove to Bill he can eat fast food for every meal with no ill effects. Then, Tilly and Cricket debate whether the lives of people in Big City are intertwined.</desc>
-    <credits>
-      <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
-      <composer>Joachim Horsley</composer>
-    </credits>
-    <date>20210313</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12068346048.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12068346051.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="disney-xd">
-    <title lang="en">Big City Greens</title>
-    <sub-title>The Van; Bat Girl</sub-title>
-    <desc>Gramma and Cricket fume over an unsightly van parked in front of their house; Nancy joins Cricket and Tilly's little league team to get back at their unsportsmanlike rivals.</desc>
-    <credits>
-      <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
-      <composer>Joachim Horsley</composer>
-    </credits>
-    <date>20210327</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12068346048.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12068346051.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="disney-xd">
     <title lang="en">Big City Greens</title>
     <sub-title>Little Buddy; Zen Garden</sub-title>
@@ -15307,50 +14947,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="diy-network">
-    <title lang="en">Salvage Dawgs</title>
-    <sub-title>Clapp Farm Windmill</sub-title>
-    <desc>The team are in Liberty, N.C., to salvage an Aeromotor windmill. Back at the shop, Mike builds a floor lamp from recovered barn wood and iron.</desc>
-    <credits>
-      <producer>Kirk Streb</producer>
-      <composer>Aaron Keane</composer>
-    </credits>
-    <date>20150705</date>
-    <category>Reality</category>
-    <category>Business</category>
-    <category>Collectibles</category>
-    <category>Entertainment</category>
-    <category>Home projects</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736007.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736010.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="diy-network">
-    <title lang="en">Salvage Dawgs</title>
-    <sub-title>Elks National Home</sub-title>
-    <desc>The team are in Bedford, Va., to salvage parts from a lodge at the Elks National Home. Back in the shop, Mike builds a swing from a recovered apple crate and upholsters cushions.</desc>
-    <credits>
-      <producer>Kirk Streb</producer>
-      <composer>Aaron Keane</composer>
-    </credits>
-    <date>20150705</date>
-    <category>Reality</category>
-    <category>Business</category>
-    <category>Collectibles</category>
-    <category>Entertainment</category>
-    <category>Home projects</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736007.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3490736010.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="diy-network">
     <title lang="en">Barnwood Builders</title>
     <sub-title>Turning a West Virginia Smokehouse into a Modern Bunkhouse in the Florida Swamp</sub-title>
@@ -16230,29 +15826,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="e-network">
-    <title lang="en">Very Cavallari</title>
-    <sub-title>Out With the Old</sub-title>
-    <desc>Kristin heads to Chicago to meet up with her friend Biegs and check out spaces for a potential second UJ store, but is on edge about finding out if she's going to get her dream space or not. Justin's boyfriend Scoot arrives, and Brittainy deals with the aftermath of dumping Stone. Jay tries to show Justin and Scoot the ropes of Nashville life, and Justin sits down with Kelly to try and help navigate the conflict between her and Kristin.</desc>
-    <credits>
-      <producer>Ashlei Dabney</producer>
-    </credits>
-    <date>20200116</date>
-    <category>Drama</category>
-    <category>Reality</category>
-    <category>Business</category>
-    <category>Entertainment</category>
-    <category>Fashion</category>
-    <category>Romance</category>
-    <category>Workplace</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7992960694.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7992962430.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="e-network">
     <title lang="en">Very Cavallari</title>
     <sub-title>Crystal Clear</sub-title>
@@ -17095,17 +16668,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/72.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105090000 +0000" stop="20230105110000 +0000" channel="espn-20220618">
-    <title lang="en">NBA Basketball</title>
-    <sub-title>Miami Heat at Los Angeles Lakers</sub-title>
-    <desc>Miami Heat at Los Angeles Lakers. From Crypto.Com Arena.</desc>
-    <date>20230104</date>
-    <category>Pro</category>
-    <category>Basketball</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="espn-20220618">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
     <sub-title>01-05-2023 -2</sub-title>
@@ -17549,18 +17111,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7530483255.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="espn2-20220717">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title>01-05-2023 -2</sub-title>
-    <desc>Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including 'Senior Night,' to recognize high-school and college athletes.</desc>
-    <date>20230105</date>
-    <category>Sports stuff</category>
-    <category>Highlights</category>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4216169712.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-4216169735.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105130000 +0000" channel="espn2-20220717">
     <title lang="en">Keyshawn, JWill and Max</title>
     <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
@@ -17846,12 +17396,6 @@
     <episode-num system="onscreen">S--E00</episode-num>
     <live/>
   </programme>
-  <programme start="20230105080000 +0000" stop="20230105110000 +0000" channel="espnu-20220717">
-    <title lang="en">Rose Bowl Game</title>
-    <sub-title>Penn State vs. Utah</sub-title>
-    <desc>Penn State (10-2) vs. Utah (10-3). From the Rose Bowl in Pasadena, Cal. Kyle Whittingham's Pac-12-champion Utes play in this "Granddaddy of Them All" for a second straight year after falling 48-45 to Ohio State last Jan. 1. QB Cameron Rising operates behind a pair of first-team tackles, who face a PSU defense led by LB Abdul Carter. The Nittany Lions' losses were to CFP teams Michigan and Ohio State.</desc>
-    <date>20230000</date>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105150000 +0000" channel="espnu-20220717">
     <title lang="en">Keyshawn, JWill and Max</title>
     <desc>Keyshawn Johnson, Jay Williams and Max Kellerman host daily morning sports talk on ESPN Radio.</desc>
@@ -18024,25 +17568,6 @@
     <sub-title>Montana State at South Dakota State</sub-title>
     <desc>Montana State (12-1) at South Dakota State (11-1) in an FCS semifinal playoff. From Dana J. Dykhouse Stadium.</desc>
     <date>20220000</date>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="food-network">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="food-network">
-    <title lang="en">Save On Your Grocery Bills!</title>
-    <desc>Tired of throwing away spoiled groceries? Keep food fresh 5X longer with the new PowerXL Duo Nutrisealer!</desc>
-    <date>20220217</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="food-network">
     <title lang="en">Paid Programming</title>
@@ -19203,13 +18728,6 @@
     <title lang="en">The Claman Countdown</title>
     <desc>Liz Claman counts down to the close of the markets.</desc>
   </programme>
-  <programme start="20230105050000 +0000" stop="20230105110000 +0000" channel="fox-network">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105170000 +0000" channel="fox-network">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -19319,20 +18837,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="fox-news-hd">
-    <title lang="en">Fox and Friends First</title>
-    <sub-title>01-05-2023 -2</sub-title>
-    <desc>A precursor to Fox News's morning show, featuring the news and first looks at the other stories of the day.</desc>
-    <date>20230105</date>
-    <category>Talk</category>
-    <category>Current affairs</category>
-    <category>Newsmagazine</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10742285325.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6941697068.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S2023E08</episode-num>
-    <episode-num system="xmltv_ns">2022.7.</episode-num>
-    <new/>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105140000 +0000" channel="fox-news-hd">
     <title lang="en">FOX &amp; Friends</title>
@@ -19664,12 +19168,6 @@
     <episode-num system="xmltv_ns">2022.4.</episode-num>
     <new/>
   </programme>
-  <programme start="20230105090000 +0000" stop="20230105110000 +0000" channel="fox-sports-1-20220618">
-    <title lang="en">College Basketball</title>
-    <sub-title>Villanova at Georgetown</sub-title>
-    <desc>Villanova at Georgetown. From Capital One Arena.</desc>
-    <date>20230000</date>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="fox-sports-1-20220618">
     <title lang="en">Skip and Shannon: Undisputed</title>
     <sub-title>01-04-2023</sub-title>
@@ -19952,25 +19450,6 @@
   <programme start="20230105193000 +0000" stop="20230105203000 +0000" channel="fox-sports-2-20220618">
     <title lang="en">NHRA Sportsman Series</title>
     <sub-title>Top Moments of 2022</sub-title>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="freeform-abc-family">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="freeform-abc-family">
-    <title lang="en">Stop Brain Fog V3</title>
-    <desc>"Nothing short of miraculous..." NeuroQ Memory &amp; Focus has been shown to support healthy brain function, clear thinking, and memory.</desc>
-    <date>20220922</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="freeform-abc-family">
     <title lang="en">Nutriseal BOGO</title>
@@ -21102,25 +20581,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/58.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="fx-live">
-    <title lang="en">5 Makeup Tips 4 You</title>
-    <desc>Airbrushed makeup made easy!</desc>
-    <date>20170221</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="fx-live">
-    <title lang="en">BACK PAIN RELIEF NOW!</title>
-    <desc>Join the millions of people who have found BACK PAIN RELIEF with Teeter FitSpine Inversion Tables.</desc>
-    <date>20180624</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="fx-live">
     <title lang="en">Paid Programming</title>
     <desc>Paid Programming.</desc>
@@ -21614,33 +21074,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/69.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105084500 +0000" stop="20230105104000 +0000" channel="hbo-02032021">
-    <title lang="en">The Wrestler</title>
-    <desc>Mickey Rourke stars as a former professional wrestling superstar fallen on hard times and grappling with a rocky personal life while looking for a chance at a comeback in the ring. Marisa Tomei, Evan Rachel Wood. Features cameos by a number of WWE wrestlers. Directed by Darren Aronofsky.</desc>
-    <date>20120927</date>
-    <category>Drama</category>
-    <category>Wrestling</category>
-    <length units="seconds">6540</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-12256613539.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-7554095116.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <star-rating system="Metascore">
-      <value>80/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/80.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105104000 +0000" stop="20230105110000 +0000" channel="hbo-02032021">
-    <title lang="en">The Gift</title>
-    <desc>Rosa, an in-home caregiver in Los Angeles, is unable to see her ailing mother in the Philippines. She wishes to send a gift, but to do so, Rosa must decide if she will leave her elderly employer unattended.</desc>
-    <date>20220519</date>
-    <category>Drama</category>
-    <category>Medicine</category>
-    <category>Troubled relationships</category>
-    <length units="seconds">900</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-11840226356.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-11819219260.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105123000 +0000" channel="hbo-02032021">
     <title lang="en">Year One: A Political Odyssey</title>
     <desc>A documentary examining the first year of President Joe Biden's administration.</desc>
@@ -22021,29 +21454,6 @@
   <programme start="20230106201000 +0000" stop="20230106222500 +0000" channel="hbo-02032021">
     <title lang="en">The Promise</title>
     <date>20170000</date>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="hgtv">
-    <title lang="en">Property Brothers: Forever Home</title>
-    <sub-title>Healthy Ever After</sub-title>
-    <desc>Jonathan and Drew help Alison and Greg renovate the house where they raised their kids and have lived for 22 years.</desc>
-    <credits>
-      <director>Jim MacPherson</director>
-      <producer>Richard Drew</producer>
-    </credits>
-    <date>20200527</date>
-    <category>Reality</category>
-    <category>Construction</category>
-    <category>Entertainment</category>
-    <category>Home projects</category>
-    <category>Makeover</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9989137049.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9980007242.jpg" width="720" height="717"/>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="hgtv">
     <title lang="en">House Hunters</title>
@@ -23159,25 +22569,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="history-channel">
-    <title lang="en">Dr. Ho's Total Body Relief</title>
-    <desc>Dr-Ho's Circulation Promoter is designed to help improve circulation. Also it reduces swelling, alleviates aching feet and legs, and relieves pain, tension, and stiffness.</desc>
-    <date>20180913</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="history-channel">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="history-channel">
     <title lang="en">Amazing Facts Presents</title>
     <desc>A series featuring exploration of the Bible and guidance on Christian living and prophecy.</desc>
@@ -24134,25 +23525,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="lifetime-tv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="lifetime-tv">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-    <date>20220113</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="lifetime-tv">
     <title lang="en">Creflo Dollar</title>
     <sub-title>Creflo Dollar</sub-title>
@@ -24951,13 +24323,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/56.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="msnbc">
-    <title lang="en">Way Too Early with Jonathan Lemire</title>
-    <sub-title>01-05-2023</sub-title>
-    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
-    <date>20230000</date>
-    <live/>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105150000 +0000" channel="msnbc">
     <title lang="en">Morning Joe</title>
     <sub-title>01-05-2023</sub-title>
@@ -25263,57 +24628,6 @@
     <episode-num system="onscreen">S2023E05</episode-num>
     <episode-num system="xmltv_ns">2022.4.</episode-num>
     <new/>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Chanel and Sterling DXCVII</sub-title>
-    <desc>Rob, Chanel, and Steelo hit the gym in 'All Pain No Gain', find that breaking up can get nasty in 'The Ex-Games', and are dancing on the job in 'Paid to Dance.'</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20221125</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Hampton Yount</sub-title>
-    <desc>Comedian Hampton Yount helps with "Risky Bits," "Next Level Narrators" and "Hamspired."</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20160728</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <episode-num system="xmltv_ns">7.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="mtv">
     <title lang="en">Ridiculousness</title>
@@ -26270,24 +25584,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8266021908.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S14E13</episode-num>
     <episode-num system="xmltv_ns">13.12.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="national-geographic">
-    <title lang="en">Trafficked with Mariana van Zeller</title>
-    <sub-title>Amazon Mafia</sub-title>
-    <desc>Mariana investigates the criminals destroying the Amazon rainforest.</desc>
-    <credits>
-      <director>Bengt Anderson</director>
-    </credits>
-    <date>20220126</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Crime</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9418059241.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9418059249.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -27867,58 +27163,6 @@
     <sub-title>Bronze-Medal Game</sub-title>
     <desc>The bronze-medal game. From Scotiabank Centre in Halifax, N.S.</desc>
     <date>20230000</date>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="nickelodeon">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title>The Book of Molly</sub-title>
-    <desc>In the Season 5 premiere, Molly completes her eight-week writers' workshop and returns to Chicago with big news.</desc>
-    <credits>
-      <director>James Burrows</director>
-      <actor role="Grandma">Cleo King</actor>
-      <writer>Julie Bean</writer>
-      <producer>Mona Garcea</producer>
-      <composer>Grant Geissman</composer>
-    </credits>
-    <date>20141208</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12187996350.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12187996351.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <episode-num system="xmltv_ns">4.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>62/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="nickelodeon">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title>To Have and Withhold</sub-title>
-    <desc>Molly comes down with a case of writer's block, and if she doesn't shake it fast, she'll be in danger of losing her big advance.</desc>
-    <credits>
-      <director>James Burrows</director>
-      <actor role="Grandma">Cleo King</actor>
-      <writer>Julie Bean</writer>
-      <producer>Mona Garcea</producer>
-      <composer>Grant Geissman</composer>
-    </credits>
-    <date>20141215</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12187996350.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12187996351.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <episode-num system="xmltv_ns">4.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>62/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="nickelodeon">
     <title lang="en">Mike &amp; Molly</title>
@@ -29524,22 +28768,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="oxygen">
-    <title lang="en">Dateline</title>
-    <sub-title>The Evil to Come</sub-title>
-    <desc>Investigation into the murder of a New York socialite.</desc>
-    <date>20171015</date>
-    <category>Current affairs</category>
-    <category>Newsmagazine</category>
-    <category>Investigative journalism</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5288382845.jpg" width="481" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/7/1-11721922145.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="oxygen">
     <title lang="en">911 Crisis Center</title>
     <sub-title>Momivisor</sub-title>
@@ -30114,14 +29342,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20230105093000 +0000" stop="20230105103000 +0000" channel="paramount-network-spike">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-    <date>20220113</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230105103000 +0000" stop="20230105113000 +0000" channel="paramount-network-spike">
     <title lang="en">True Crime: Identity Theft</title>
@@ -31132,22 +30352,6 @@
       <value>67/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/67.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="science-channel">
-    <title lang="en">Engineering Catastrophes</title>
-    <sub-title>Sinkhole at the Museum</sub-title>
-    <desc>A massive sinkhole swallows millions of dollars of legendary automobiles at the National Corvette Museum in Kentucky. Expert geologists investigate and reveal how an enormous cave system could remain undetected and poised for catastrophic destruction.</desc>
-    <date>20210616</date>
-    <category>Documentary</category>
-    <category>Science &amp; Technology</category>
-    <category>Technology</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7699057514.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7699057510.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="science-channel">
     <title lang="en">NASA's Unexplained Files</title>
@@ -32904,25 +32108,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8592066249.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="syfy">
-    <title lang="en">DRAFT KINGS SB TBA</title>
-    <desc>The DraftKings Sportsbook App is now LIVE! Download the app and get into the action this NFL season with DraftKings Sportsbook, the only top-rated sportsbook app that matters.</desc>
-    <date>20210831</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="syfy">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105112900 +0000" channel="syfy">
     <title lang="en">The Twilight Zone</title>
     <sub-title>The Prime Mover</sub-title>
@@ -33311,60 +32496,6 @@
     <star-rating system="Metascore">
       <value>62/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="tbs">
-    <title lang="en">Family Matters</title>
-    <sub-title>Cousin Urkel</sub-title>
-    <desc>After Steve goes away for a few weeks, his cousin Myrtle (Jaleel White in a dual role) takes his place pestering the Winslows. Richie: Bryton McClure. Laura: Kellie Shanygne Williams.</desc>
-    <credits>
-      <director>Rich Correll</director>
-      <actor role="Waldo Faldo">Shawn Harrison</actor>
-      <producer>Fred Fox Jr.</producer>
-      <composer>Jesse Frederick</composer>
-    </credits>
-    <date>19901102</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12224309587.jpg" width="493" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6854228113.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="tbs">
-    <title lang="en">Family Matters</title>
-    <sub-title>Dedicated to the One I Love</sub-title>
-    <desc>Harriette points out the obvious when a seductive neighbor (Susan Beaubian) sets her sights on Carl; and Laura may soon regret steering Steve to a shy young girl. Susie: Caryn Ward. Carl: Reginald VelJohnson.</desc>
-    <credits>
-      <director>Rich Correll</director>
-      <actor role="Waldo Faldo">Shawn Harrison</actor>
-      <producer>Fred Fox Jr.</producer>
-      <composer>Jesse Frederick</composer>
-    </credits>
-    <date>19901109</date>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Sitcom</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12224309587.jpg" width="493" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6854228113.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>51/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/51.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="tbs">
@@ -35041,13 +34172,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105050000 +0000" stop="20230105110000 +0000" channel="cw-02032021">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105170000 +0000" channel="cw-02032021">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -35163,29 +34287,6 @@
     <desc>Local programming.</desc>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="tlc">
-    <title lang="en">My Big Fat Fabulous Life</title>
-    <sub-title>Sink or Swim</sub-title>
-    <desc>During a weekend trip to the lake, Whitney and Ryan clash as her friends beg her to ditch him and move back to Greensboro. When Buddy's new girlfriend crashes the party, Whitney worries about losing her "quarantine husband" to another woman.</desc>
-    <credits>
-      <director>David Charles Sullivan</director>
-      <producer>Pearl Boakye</producer>
-    </credits>
-    <date>20201229</date>
-    <category>Drama</category>
-    <category>Reality</category>
-    <category>Health</category>
-    <category>Dance</category>
-    <category>Entertainment</category>
-    <category>Fitness</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9362886942.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9362886934.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <episode-num system="xmltv_ns">7.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="tlc">
@@ -35902,40 +35003,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="tnt">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title>Checkmate, Part I</sub-title>
-    <desc>Part 1 of 2. Pride assembles an off-the-books team to search for a loophole when he faces a grand jury indictment for abuse of power.</desc>
-    <credits>
-      <director>Gary Glasberg</director>
-      <actor>Shalita Grant</actor>
-      <writer>Laurie Arent</writer>
-      <producer>Mark Harmon</producer>
-      <composer>Tree Adams</composer>
-    </credits>
-    <date>20180515</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Military</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Police</category>
-    <category>Politics</category>
-    <category>Spin-off</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9361185339.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9361185328.JPG" width="720" height="405"/>
-    <episode-num system="onscreen">S04E23</episode-num>
-    <episode-num system="xmltv_ns">3.22.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>55/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/55.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="tnt">
     <title lang="en">Charmed</title>
     <sub-title>The Torn Identity</sub-title>
@@ -36592,22 +35659,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/82.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="travel-channel">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-    <date>20220113</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="travel-channel">
-    <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <date>20190708</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="travel-channel">
     <title lang="en">Nutriseal BOGO</title>
     <desc>Wave Goodbye to Waste and Hello to Freshness with the PowerXL Duo NutriSealer!</desc>
@@ -37220,25 +36271,6 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="trutv">
-    <title lang="en">Inogen Portable Oxygen – No More Tanks!</title>
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <date>20190708</date>
-    <category>Infomercial</category>
-    <category>Other</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="trutv">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="trutv">
@@ -38446,62 +37478,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="tvland">
-    <title lang="en">The Goldbergs</title>
-    <sub-title>Goldbergs Never Say Die!</sub-title>
-    <desc>Adam goes on a "Goonies"-inspired treasure hunt for his grandmother's missing jewelry, with the help of his siblings and friends.</desc>
-    <credits>
-      <director>David Katzenberg</director>
-      <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
-      <producer>Adam F. Goldberg</producer>
-      <composer>Michael Wandmacher</composer>
-    </credits>
-    <date>20140304</date>
-    <category>Comedy</category>
-    <category>Coming of age</category>
-    <category>Satire</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="tvland">
-    <title lang="en">The Goldbergs</title>
-    <sub-title>Lame Gretzky</sub-title>
-    <desc>Adam takes up hockey to impress Murray, even though he has no talent or love for the sport. When he's suspended for starting a fight on the ice, he confesses his true intentions to his dad. Meanwhile, Murray tries to prove his interest in Adam's films; and Erica deals with stress from Beverly as she prepares for her SATs.</desc>
-    <credits>
-      <director>David Katzenberg</director>
-      <actor>Sam Lerner</actor>
-      <writer>Chris Bishop</writer>
-      <producer>Adam F. Goldberg</producer>
-      <composer>Michael Wandmacher</composer>
-    </credits>
-    <date>20140311</date>
-    <category>Comedy</category>
-    <category>Coming of age</category>
-    <category>Satire</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12057503804.jpg" width="486" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12057503799.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>53/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="tvland">
     <title lang="en">True Crime: Identity Theft</title>
@@ -39911,41 +38887,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20230105100000 +0000" stop="20230105110000 +0000" channel="usa-network">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Fight</sub-title>
-    <desc>A teenage girl's murder appears to be connected to the world of ultimate fighting when a fighter's DNA is found at the scene. But more evidence leads to two brothers (Gaius Charles, Arlen Escarpeta), who could be responsible for the death.</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Jamie Gray Hyder</actor>
-      <writer>Warren Leight</writer>
-      <producer>David DeClerque</producer>
-      <composer>Mike Post</composer>
-      <editor>Jim Stewart</editor>
-    </credits>
-    <date>20071120</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
-    <category>Suspense/Thriller</category>
-    <category>Courtroom</category>
-    <category>Legal</category>
-    <category>Police</category>
-    <category>Spin-off</category>
-    <category>Troubled relationships</category>
-    <category>Workplace</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10466222308.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7672478681.jpg" width="720" height="398"/>
-    <episode-num system="onscreen">S09E08</episode-num>
-    <episode-num system="xmltv_ns">8.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>66/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230105110000 +0000" stop="20230105120000 +0000" channel="usa-network">
     <title lang="en">NCIS</title>
     <sub-title>Shell Shock</sub-title>
@@ -40952,46 +39893,6 @@
       <value>60/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="vh1">
-    <title lang="en">Martin</title>
-    <sub-title>Love TKO</sub-title>
-    <desc>The Paynes' romantic plans are interrupted by a bickering Tommy and Pam (Tichina Arnold), and by Cole, who brings over his new girlfriends...one at a time. Gina: Tisha Campbell. Tommy: Tommy Ford. Cole: Carl Payne.</desc>
-    <credits>
-      <director>Tony Singletary</director>
-      <actor role="Gloria Rodriguez">Angelina Estrada</actor>
-      <producer>Topper Carew</producer>
-    </credits>
-    <date>19951007</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7532747413.jpg" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7532747410.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="vh1">
-    <title lang="en">Martin</title>
-    <sub-title>He Say, She Say</sub-title>
-    <desc>Martin becomes convinced that Cole's new girlfriend (Juliette Jeffers) is actually one of America's most wanted. Pam: Tichina Arnold. Gina: Tisha Campbell. Martin: Martin Lawrence.</desc>
-    <credits>
-      <director>Tony Singletary</director>
-      <actor role="Gloria Rodriguez">Angelina Estrada</actor>
-      <producer>Topper Carew</producer>
-    </credits>
-    <date>19951014</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7532747413.jpg" width="507" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7532747410.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="vh1">
     <title lang="en">Martin</title>

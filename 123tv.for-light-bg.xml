@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20230211201938" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/resources/xmltv.xsd" date="20230211211615" generator-info-name="123tv-iptv" generator-info-url="https://github.com/interlark/123tv-iptv">
   <channel id="ae">
     <display-name>A&amp;E (AE)</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-light-bg/ae.png" width="512" height="512"/>
@@ -332,14 +332,6 @@
     <display-name>WWE Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/channels/for-light-bg/wwe-network.png" width="512" height="512"/>
   </channel>
-  <programme start="20230211180000 +0000" stop="20230211200000 +0000" channel="ae">
-    <title lang="en">Biography: WWE Legends</title>
-    <sub-title>Booker T</sub-title>
-    <date>20200000</date>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211220000 +0000" channel="ae">
     <title lang="en">Biography: WWE Legends</title>
     <sub-title>DX</sub-title>
@@ -763,7 +755,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172488095.jpg" width="540" height="720"/>
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3175381424.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
-    <live/>
   </programme>
   <programme start="20230211203000 +0000" stop="20230211230000 +0000" channel="abc">
     <title lang="en">NHL Hockey</title>
@@ -910,29 +901,6 @@
     <desc>Local programming.</desc>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="ahc-american-heroes-channel">
-    <title lang="en">America: Facts vs. Fiction: Bonus Round</title>
-    <sub-title>Bonus Round: Science or Sci-Fi?</sub-title>
-    <desc>The science in America's history is examined, including its medical history and its nuclear age.</desc>
-    <credits>
-      <director>Kevin R. Hershberger</director>
-      <writer>Rob Lihani</writer>
-      <producer>Joel Sturdivant</producer>
-    </credits>
-    <date>20171019</date>
-    <category>Documentary</category>
-    <category>Docudrama</category>
-    <category>History</category>
-    <category>Retrospective</category>
-    <category>Investigative journalism</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3964398136.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3964398137.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="ahc-american-heroes-channel">
@@ -1156,27 +1124,21 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230211160000 +0000" stop="20230211200000 +0000" channel="amc">
-    <title lang="en">Scarface</title>
-    <desc>A Cuban refugee becomes a drug lord in Miami. Inspired by actual events.</desc>
-    <date>19831209</date>
-    <category>Crime drama</category>
-    <category>Drama</category>
-    <category>Action/Adventure</category>
+  <programme start="20230212090000 +0000" stop="20230212100000 +0000" channel="ahc-american-heroes-channel">
+    <title lang="en">Inside Secret Societies</title>
+    <sub-title>Nazi Occult Societies</sub-title>
+    <desc>A series examining clandestine activities of dangerous organizations around the world begins with a look at how the Nazis appropriated religious and mystical iconography and ideas to imbue their cause with supernatural power.</desc>
+    <date>20160504</date>
+    <category>Documentary</category>
     <category>Crime</category>
-    <category>Guy flick</category>
-    <category>Other</category>
-    <length units="seconds">10140</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-944480829.jpg" width="655" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7551116637.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <category>History</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3535036863.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8562394596.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="VCHIP">
-      <value>TV-MA</value>
+      <value>TV-PG</value>
     </rating>
-    <star-rating system="Metascore">
-      <value>65/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/65.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230212000000 +0000" channel="amc">
     <title lang="en">The Godfather</title>
@@ -1327,29 +1289,6 @@
       <value>50/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/50.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="animal-planet-20211102">
-    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
-    <sub-title>Little Puppy, Big Heart</sub-title>
-    <desc>Khaleesi the golden retriever pup undergoes a life-saving procedure. Vet tech Blaire faces heartbreak over her beloved senior dog Zula, and during the global pandemic, Dr. Jeff and Hector ensure pets from an elderly community receive proper medical care.</desc>
-    <credits>
-      <director>Josh Opitz</director>
-      <producer>Patrick Keegan</producer>
-      <composer>Alex Kovacs</composer>
-    </credits>
-    <date>20220409</date>
-    <category>Reality</category>
-    <category>Animals</category>
-    <category>Medicine</category>
-    <category>Nature</category>
-    <category>Pets</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6316354074.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6316354072.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S07E14</episode-num>
-    <episode-num system="xmltv_ns">6.13.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="animal-planet-20211102">
     <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
@@ -1737,14 +1676,6 @@
       <value>TV-PG</value>
     </rating>
     <live/>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="bbc-america">
-    <title lang="en">Planet Earth: The Blue Planet</title>
-    <desc>Creatures of the open ocean are examined, including halfmoon fish, sunfish, loggerhead turtles, sardines, yellowtails and triggerfish.</desc>
-    <date>20010000</date>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="bbc-america">
     <title lang="en">Planet Earth: The Blue Planet</title>
@@ -2561,30 +2492,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/33.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="bravo">
-    <title lang="en">Shark Tank</title>
-    <sub-title>Episode 1001</sub-title>
-    <desc>The Season 10 premiere: An entrepreneur from Atlanta introduces a smart device designed specifically to protect packages from package thieves; an unexpected entrepreneur from Dalton, Ga., invented a nontoxic and nonpermanent adhesive created for kids, by a kid; entrepreneurs from Santa Fe and L.A. believe they have created the solution to plastic straws; and husband and wife entrepreneurs from Spokane, Wash., believe they have created the next evolution in camping cookware.</desc>
-    <credits>
-      <director>Alan Carter</director>
-      <actor>Kendra Scott</actor>
-    </credits>
-    <date>20181007</date>
-    <category>Reality</category>
-    <category>Reality competition</category>
-    <category>Business</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9273660855.jpg" width="576" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12165665429.jpg" width="720" height="703"/>
-    <episode-num system="onscreen">S10E01</episode-num>
-    <episode-num system="xmltv_ns">9.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>60/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/60.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="bravo">
     <title lang="en">Shark Tank</title>
     <sub-title>Episode 729</sub-title>
@@ -3109,51 +3016,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/44.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="cartoon-network-02032021">
-    <title lang="en">Teen Titans Go!</title>
-    <sub-title>Looking for Love; Rad Dudes With Bad Tudes</sub-title>
-    <credits>
-      <director>Peter Rida Michael</director>
-      <writer>John Loy</writer>
-      <producer>Michael Jelenic</producer>
-      <composer>Armen Chakmakian</composer>
-    </credits>
-    <date>20160000</date>
-    <category>Comedy</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10170978579.JPEG" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7535830290.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="cartoon-network-02032021">
-    <title lang="en">Teen Titans Go!</title>
-    <sub-title>History Lesson; Obinray</sub-title>
-    <desc>Robin tries to teach history lessons, but the gang put their own spin on his stories; the Titans speak Pig Latin to keep Robin from eavesdropping.</desc>
-    <credits>
-      <director>Peter Rida Michael</director>
-      <writer>John Loy</writer>
-      <producer>Michael Jelenic</producer>
-      <composer>Armen Chakmakian</composer>
-    </credits>
-    <date>20170704</date>
-    <category>Comedy</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Adaptation</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10170978579.JPEG" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7535830290.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="cartoon-network-02032021">
     <title lang="en">Teen Titans Go!</title>
     <sub-title>The Art of Ninjutsu; Batman vs. Teen Titans: Dark Injustice</sub-title>
@@ -3674,12 +3536,78 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230211180000 +0000" stop="20230211200000 +0000" channel="cbs">
-    <title lang="en">College Basketball</title>
-    <sub-title>Kansas at Oklahoma</sub-title>
-    <desc>Kansas at Oklahoma. From Lloyd Noble Center.</desc>
-    <date>20230000</date>
-    <live/>
+  <programme start="20230212083000 +0000" stop="20230212084500 +0000" channel="cartoon-network-02032021">
+    <title lang="en">Ballmastrz: 9009</title>
+    <sub-title>When You Wish Upon a Spore</sub-title>
+    <desc>After insulting a superfan, Flypp must complete Crayzar's new sensitivity training program.</desc>
+    <credits>
+      <director>Christy Karacas</director>
+      <writer>Christy Karacas</writer>
+      <producer>Ollie Green</producer>
+      <composer>Joe Wong</composer>
+    </credits>
+    <date>20200309</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8280914961.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10226784763.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230212084500 +0000" stop="20230212090000 +0000" channel="cartoon-network-02032021">
+    <title lang="en">Ballmastrz: 9009</title>
+    <sub-title>Can't Stand the Heat? Ultimate Kitchen Technique! Finish Them, Warrior Bard!!</sub-title>
+    <desc>The Leptons pressure Leto into becoming a contestant in Crayzar's cooking competition.</desc>
+    <credits>
+      <director>Christy Karacas</director>
+      <writer>Christy Karacas</writer>
+      <producer>Ollie Green</producer>
+      <composer>Joe Wong</composer>
+    </credits>
+    <date>20200309</date>
+    <category>Comedy</category>
+    <category>Action/Adventure</category>
+    <category>Fantasy</category>
+    <category>Animated comedy</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-8280914961.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10226784763.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230212090000 +0000" stop="20230212093000 +0000" channel="cartoon-network-02032021">
+    <title lang="en">Futurama</title>
+    <sub-title>Time Keeps on Slipping</sub-title>
+    <desc>The Professor's creation of a basketball team of atomic mutants causes time to skip forward at random, and one result is a staff marriage. Jeff Cesario, Phil LaMarr, Billy West, Katey Sagal.</desc>
+    <credits>
+      <director>Rich Moore</director>
+      <writer>Lewis Morton</writer>
+      <producer>Claudia Katz</producer>
+      <composer>Christopher Tyng</composer>
+    </credits>
+    <date>20010506</date>
+    <category>Sci-fi</category>
+    <category>Cartoon</category>
+    <category>Sitcom</category>
+    <category>Teens</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172450994.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7535468052.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metascore">
+      <value>74/100</value>
+      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/74.png" width="128" height="128"/>
+    </star-rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211233000 +0000" channel="cbs">
     <title lang="en">PGA Tour Golf</title>
@@ -4351,12 +4279,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/63.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230211180000 +0000" stop="20230211200000 +0000" channel="cnbc-2">
-    <title lang="en">Six Nations Rugby</title>
-    <sub-title>Ireland vs. France</sub-title>
-    <desc>Ireland vs. France in a Round 2 match from Aviva Stadium in Dublin.</desc>
-    <date>20230000</date>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211220000 +0000" channel="cnbc-2">
     <title lang="en">Six Nations Rugby</title>
     <sub-title>Scotland vs. Wales</sub-title>
@@ -4778,13 +4700,6 @@
     <desc>England vs. Italy in a Round 2 match from Twickenham Stadium in London.</desc>
     <date>20230000</date>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="cnn-02032021">
-    <title lang="en">CNN Newsroom With Fredricka Whitfield</title>
-    <sub-title>02-11-2023 -4</sub-title>
-    <desc>The latest news from around the world with host Fredricka Whitfield.</desc>
-    <date>20230000</date>
-    <new/>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="cnn-02032021">
     <title lang="en">Smerconish</title>
     <sub-title>02-11-2023</sub-title>
@@ -5098,60 +5013,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11485488868.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <new/>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="comedy-central">
-    <title lang="en">Seinfeld</title>
-    <sub-title>The Pez Dispenser</sub-title>
-    <desc>Kramer's advice gives George "the upper hand" in his relationship with a pianist, whose recital is ruined by Elaine's outburst of laughter. John: Fred Sanders. George: Jason Alexander.</desc>
-    <credits>
-      <director>Andy Ackerman</director>
-      <actor role="Russell Dalrimple">Bob Balaban</actor>
-      <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
-      <composer>Jonathan Wolff</composer>
-    </credits>
-    <date>19920115</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <category>Stand-up comedy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3630978030.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-172398315.jpg" width="720" height="486"/>
-    <episode-num system="onscreen">S03E14</episode-num>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>84/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="comedy-central">
-    <title lang="en">Seinfeld</title>
-    <sub-title>The Fix-up</sub-title>
-    <desc>Jerry and Elaine fix up George with Elaine's friend (Maggie Jakobson)---then wait nervously. Jason Alexander, Julia Louis-Dreyfus.</desc>
-    <credits>
-      <director>Andy Ackerman</director>
-      <actor role="Russell Dalrimple">Bob Balaban</actor>
-      <writer>Larry David</writer>
-      <producer>Jerry Seinfeld</producer>
-      <composer>Jonathan Wolff</composer>
-    </credits>
-    <date>19920205</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <category>Stand-up comedy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3630978030.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-172398315.jpg" width="720" height="486"/>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>84/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/84.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="comedy-central">
     <title lang="en">Seinfeld</title>
@@ -6100,51 +5961,6 @@
       <value>66/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230211180000 +0000" stop="20230211193000 +0000" channel="disney-channel">
-    <title lang="en">Ice Age</title>
-    <desc>Ray Romano, John Leguizamo and Denis Leary lend their voices to this hilarious computer-animated comedy. The story revolves around a prehistoric woolly mammoth, a sloth and a saber-toothed tiger who try to reunite a lost human baby with his tribe. Other voices include Goran Visnjic, Jack Black, Cedric the Entertainer and Stephen Root.</desc>
-    <date>20100504</date>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Other</category>
-    <category>Preteen</category>
-    <length units="seconds">4860</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-1687198409.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-3514262974.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>61/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/61.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="disney-channel">
-    <title lang="en">Big City Greens</title>
-    <sub-title>Space Chicken; Steak Night</sub-title>
-    <desc>To impress his new neighbors, Cricket attempts to launch a chicken into space; the Greens are excited to continue their traditional monthly steak dinner, but Cricket accidentally loses the steaks on the subway.</desc>
-    <credits>
-      <director>Matt Braly</director>
-      <producer>Jason Wyatt</producer>
-      <composer>Joachim Horsley</composer>
-    </credits>
-    <date>20180618</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12068346048.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12068346051.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="disney-channel">
     <title lang="en">Big City Greens</title>
@@ -7252,65 +7068,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230211184000 +0000" stop="20230211190500 +0000" channel="disney-junior">
-    <title lang="en">Spidey and His Amazing Friends</title>
-    <sub-title>Clean Power / Doc Ock &amp; the Rocktobots</sub-title>
-    <desc>Electro and her electric gauntlet have drained the power from the city's new wind turbine; Team Spidey runs up against villains trying to stop them from performing at a concert.</desc>
-    <credits>
-      <director>Chris Gilligan</director>
-      <writer>Bart Jennett</writer>
-    </credits>
-    <date>20230210</date>
-    <category>Action/Adventure</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11917454786.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11917454790.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230211190500 +0000" stop="20230211193500 +0000" channel="disney-junior">
-    <title lang="en">SuperKitties</title>
-    <sub-title>Have a Ball / Zsa-Zsa Zoom</sub-title>
-    <desc>When Ginny gets a boo-boo, Sparks, Buddy and Bitsy have to learn to work as a team without her; the SuperKitties help Peanut get Nadia's stolen toy car back from Zsa-Zsa.</desc>
-    <date>20230128</date>
-    <category>Animated</category>
-    <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12455884792.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12455884794.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20230211193500 +0000" stop="20230211200000 +0000" channel="disney-junior">
-    <title lang="en">Bluey</title>
-    <sub-title>Phones / Pavlova / Rain</sub-title>
-    <desc>Bluey and Bingo play restaurant with Grandad; the kids play Café so Bingo can eat Pavlova; Bluey tracks mud into the house.</desc>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>Melanie Zanetti</actor>
-      <composer>Joff Bush</composer>
-    </credits>
-    <date>20221211</date>
-    <category>Comedy</category>
-    <category>Children</category>
-    <category>Educational</category>
-    <category>Animals</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <category>Preschool</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211202500 +0000" channel="disney-junior">
     <title lang="en">Bluey</title>
     <sub-title>Chest / Omelette / Pass the Parcel</sub-title>
@@ -7947,52 +7704,54 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="disney-xd">
-    <title lang="en">Kick Buttowski Suburban Daredevil</title>
-    <sub-title>If Books Could Kill; There Will Be Nachos</sub-title>
-    <desc>Kick tries to get a book that belongs to him back from the library but the stubborn librarian refuses to let him have it; Brad throws a party but refuses to let Kick attend, so Kick schemes to crash the event.</desc>
+  <programme start="20230212083000 +0000" stop="20230212090000 +0000" channel="disney-junior">
+    <title lang="en">Bluey</title>
+    <sub-title>Kids; Butterflies; The Creek</sub-title>
+    <desc>At the supermarket, Bluey takes on the role of parent while Dad and Bingo are children; Bingo feels intimidated by Bluey's new friend, and Dad takes Bluey and friends to the creek.</desc>
     <credits>
-      <director>Chris Savino</director>
-      <writer>Derek Dressler</writer>
-      <producer>Janelle Momary-Neely</producer>
+      <director>Richard Jeffery</director>
+      <actor>Melanie Zanetti</actor>
+      <composer>Joff Bush</composer>
     </credits>
-    <date>20100213</date>
-    <category>Family</category>
+    <date>20191007</date>
+    <category>Comedy</category>
     <category>Children</category>
+    <category>Educational</category>
+    <category>Animals</category>
     <category>Animated</category>
     <category>Cartoon</category>
-    <category>Entertainment</category>
-    <category>Other</category>
-    <category>Teens</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172495558.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172495557.jpg" width="720" height="540"/>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12268952903.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12268952905.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y7</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="disney-xd">
-    <title lang="en">Kick Buttowski Suburban Daredevil</title>
-    <sub-title>Knocked Out; Not Without My Cereal</sub-title>
-    <desc>Gunther accidentally knocks Kick out just before Kick is to attempt his greatest stunt for a talent scout; Kick babysits his little sister, but she runs off.</desc>
+  <programme start="20230212090000 +0000" stop="20230212093000 +0000" channel="disney-junior">
+    <title lang="en">Mickey Mouse Clubhouse</title>
+    <sub-title>Mickey's Mousekersize!</sub-title>
+    <desc>Mickey teaches Pete the importance of exercising after the big cat becomes exhausted playing basketball.</desc>
     <credits>
-      <director>Chris Savino</director>
-      <writer>Derek Dressler</writer>
-      <producer>Janelle Momary-Neely</producer>
+      <director>Rob LaDuca</director>
+      <writer>Ashley Mendoza</writer>
+      <producer>Leslie Antonio Valdes</producer>
+      <composer>Mike Himelstein</composer>
     </credits>
-    <date>20100227</date>
-    <category>Family</category>
-    <category>Children</category>
+    <date>20101122</date>
+    <category>Comedy</category>
+    <category>Fantasy</category>
+    <category>Musical</category>
+    <category>Educational</category>
     <category>Animated</category>
     <category>Cartoon</category>
-    <category>Entertainment</category>
-    <category>Other</category>
-    <category>Teens</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172495558.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-172495557.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+    <category>Preschool</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11402418581.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-11402418583.jpg" width="720" height="405"/>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="VCHIP">
-      <value>TV-Y7</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="disney-xd">
@@ -9032,18 +8791,6 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="diy-network">
-    <title lang="en">Rooms We Love</title>
-    <sub-title>Dining Rooms</sub-title>
-    <desc>Experts discuss the cooks, craftspeople and couples that enjoy these dining rooms by exploring eclectic and unique design elements in North Carolina and a natural desert dining room in California.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="diy-network">
-    <title lang="en">Rooms We Love</title>
-    <sub-title>Bedrooms</sub-title>
-    <desc>Experts explain the importance of a comfortable and serene bedroom. Whether doubling as a home office or functioning as an oasis to take a break from life's responsibilities, these bedrooms are for far more than just sleeping.</desc>
-    <date>20220000</date>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="diy-network">
     <title lang="en">Fixer Upper</title>
@@ -10350,6 +10097,11 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7837626403.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
+  <programme start="20230212090000 +0000" stop="20230212120000 +0000" channel="espn-news">
+    <title lang="en">UFC 252: Miocic vs. Cormier 3</title>
+    <desc>Heavyweight champ Stipe Miocic battles Daniel Cormier for the third time in three years, in Las Vegas. Cormier won by first-round KO in 2018 and lost by fourth-round TKO in 2019. Also: Dos Santos-Rozenstruik (heavy); O'Malley-Vera (135 lbs.); and Ankalaev-Cutelaba (205).</desc>
+    <date>20200000</date>
+  </programme>
   <programme start="20230211190000 +0000" stop="20230211210000 +0000" channel="espn2-20220717">
     <title lang="en">College Basketball</title>
     <sub-title>Clemson at North Carolina</sub-title>
@@ -10640,22 +10392,6 @@
     <sub-title>Alabama at Auburn</sub-title>
     <desc>Alabama at Auburn. From Neville Arena.</desc>
     <date>20230000</date>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="food-network">
-    <title lang="en">NFL Tailgate Takedown</title>
-    <sub-title>Las Vegas Raiders vs. Kansas City Chiefs</sub-title>
-    <desc>The Kansas City Chiefs and Las Vegas Raiders continue their historic rivalry. Sunny Anderson and Vince Wilfork challenge two top tailgating teams to finally settle the score with an impressive spread for judges Eddie Jackson and Kelsey Barnard Clark.</desc>
-    <date>20230118</date>
-    <category>Reality competition</category>
-    <category>Food</category>
-    <category>Football</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12535697496.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12535697491.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211220000 +0000" channel="food-network">
     <title lang="en">Tournament of Champions</title>
@@ -11156,22 +10892,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="fox-business">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc>Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-    <date>20220000</date>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="fox-business">
-    <title lang="en">Paid Programming</title>
-    <desc>Paid Programming.</desc>
-    <date>20090810</date>
-    <category>Infomercial</category>
-    <category>Shopping</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="fox-business">
     <title lang="en">Rare Silver Eagles</title>
     <desc>Add the 1986-2020 American Silver Eagle in Mint State 69 condition to your collection. The ASE obverse features Adolf Weinman's Lady Liberty design. The reverse, created by the 12th Chief Engraver of the US Mint, shows a heraldic American bald eagle.</desc>
@@ -11313,6 +11033,15 @@
   <programme start="20230212080000 +0000" stop="20230212090000 +0000" channel="fox-business">
     <title lang="en">The Killer Next Door</title>
     <desc>The architect of criminal profiling for the FBI, John Douglas, decodes the worst serial killers. This special reveals snippets of profiles of the different murderers and how law enforcement tackled each of them. Along the way, Douglas reveals these killers' motivations and what led them to commit their horrific crimes.</desc>
+  </programme>
+  <programme start="20230212090000 +0000" stop="20230212103000 +0000" channel="fox-business">
+    <title lang="en">In The Valley Of Sin</title>
+    <desc>Law enforcement uncovers a pedophile ring. Forty-three parents are jailed and children are swallowed up by the foster care system.</desc>
+    <date>20210516</date>
+    <category>Documentary</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10089357935.jpg" width="480" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10089357936.jpg" width="720" height="540"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230211190000 +0000" stop="20230211210000 +0000" channel="fox-network">
     <title lang="en">College Basketball</title>
@@ -11456,11 +11185,6 @@
     <desc>Curt Menefee and Charissa Thompson host extensive Chiefs-Eagles analysis and features, plus pre-Super Bowl festivities, from State Farm Stadium in Glendale, Ariz. Terry Bradshaw, Howie Long, Michael Strahan and Jimmy Johnson provide analysis.</desc>
     <date>20230000</date>
     <live/>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="fox-news-hd">
-    <title lang="en">Fox News Live</title>
-    <desc>The important stories of the day are addressed.</desc>
-    <new/>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="fox-news-hd">
     <title lang="en">The Journal Editorial Report</title>
@@ -11974,26 +11698,15 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7142527669.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20230211164000 +0000" stop="20230211192000 +0000" channel="freeform-abc-family">
-    <title lang="en">Spy</title>
-    <desc>After years of doing work integral to the success of major missions, a deskbound CIA analyst is finally given the chance to go undercover in order to save her missing partner and thwart a global disaster in this uproarious comedy.</desc>
-    <date>20150605</date>
-    <category>Comedy</category>
-    <category>Action/Adventure</category>
-    <category>Crime</category>
-    <category>Espionage</category>
-    <category>Other</category>
-    <length units="seconds">7140</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-8315291821.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-1400905220.jpg" width="720" height="405"/>
+  <programme start="20230212090000 +0000" stop="20230212110000 +0000" channel="fox-sports-2-20220618">
+    <title lang="en">FIFA Club World Cup 2022</title>
+    <sub-title>Real Madrid vs. Al-Hilal</sub-title>
+    <desc>Real Madrid vs. Al-Hilal (Saudi Arabia) in the final in Rabat, Morocco. This annual tournament brings together club soccer champions from FIFA's six global confederations, plus a club from the host nation. Vinicius Junior spearheads Real Madrid's bid for a record fifth Club World Cup title, facing the first-ever Saudi finalist.</desc>
+    <date>20230211</date>
+    <category>Pro</category>
+    <category>Soccer</category>
+    <category>Cup competition (Soccer)</category>
     <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>75/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/75.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230211192000 +0000" stop="20230211213000 +0000" channel="freeform-abc-family">
     <title lang="en">Grown Ups 2</title>
@@ -13038,28 +12751,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/73.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="hgtv">
-    <title lang="en">Love It or List It</title>
-    <sub-title>Midcentury Modern Makeover</sub-title>
-    <desc>Now that their sons are grown, Nina and Earl are ready to make a decision on their home: whether to renovate it or find a better option.</desc>
-    <credits>
-      <director>Não Informado</director>
-    </credits>
-    <date>20221003</date>
-    <category>Reality</category>
-    <category>Entertainment</category>
-    <category>Home &amp; Garden</category>
-    <category>Home projects</category>
-    <category>How-to</category>
-    <category>Makeover</category>
-    <category>Real estate</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10610668579.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-10610668580.jpg" width="720" height="717"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="hgtv">
     <title lang="en">Love It or List It</title>
     <sub-title>No Love for the Land</sub-title>
@@ -13590,27 +13281,6 @@
     <episode-num system="xmltv_ns">4.9.</episode-num>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="history-channel">
-    <title lang="en">The UnXplained With William Shatner</title>
-    <sub-title>The Truth About UFOs</sub-title>
-    <desc>For decades, the debate has raged as to what exactly Unidentified Flying Objects really are. Theories have been put forth that attribute them to everything from secret military aircraft to weather phenomena and more. The most controversial theory is that these objects are, in fact, spacecraft that have been piloted to Earth by extraterrestrial beings.</desc>
-    <credits>
-      <director>William Shatner</director>
-      <producer>Anthony Fiorino</producer>
-    </credits>
-    <date>20200801</date>
-    <category>Documentary</category>
-    <category>History</category>
-    <category>Mystery &amp; Suspense</category>
-    <category>Paranormal</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-10719916314.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9553257431.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="history-channel">
@@ -14440,18 +14110,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="msnbc">
-    <title lang="en">Yasmin Vossoughian Reports</title>
-    <sub-title>02-11-2023</sub-title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
-    <date>20230211</date>
-    <category>Newscast</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9900149342.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-9900149349.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S06E25</episode-num>
-    <episode-num system="xmltv_ns">5.24.</episode-num>
-    <live/>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="msnbc">
     <title lang="en">Yasmin Vossoughian Reports</title>
     <sub-title>02-11-2023 -2</sub-title>
@@ -14700,58 +14358,6 @@
     <episode-num system="onscreen">S02E13</episode-num>
     <episode-num system="xmltv_ns">1.12.</episode-num>
     <live/>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Chanel and Sterling DCXXXVI</sub-title>
-    <desc>Rob, Chanel and Steelo deal with a bug problem in "Extermination Innovation"; hit the pub hard in "Brit-Faced"; and fail at capturing the moment in "Ruined Fam Photos."</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20230206</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="mtv">
-    <title lang="en">Ridiculousness</title>
-    <sub-title>Chanel and Sterling CCXVII</sub-title>
-    <desc>Rob, Chanel and Steelo break down the newest sport, known as "Drunning"; they salute "The Oddest Couples"; and following the advice of some tutorials, they learn "How to: F*ck Up Your Head."</desc>
-    <credits>
-      <director>Marco Mancini</director>
-      <writer>Rob O'Reilly</writer>
-      <producer>Shanna Zablow</producer>
-      <composer>Michael Baiardi</composer>
-      <guest>Juicy J</guest>
-      <guest>B. Simone</guest>
-      <guest>Brian Urlacher</guest>
-    </credits>
-    <date>20201006</date>
-    <category>Comedy</category>
-    <category>Reality</category>
-    <category>Compilation</category>
-    <category>Entertainment</category>
-    <category>Internet</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7211665747.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="mtv">
     <title lang="en">Ridiculousness</title>
@@ -15461,58 +15067,6 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7534004010.jpg" width="720" height="405"/>
     <episode-num system="onscreen">S11E31</episode-num>
     <episode-num system="xmltv_ns">10.30.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="national-geographic">
-    <title lang="en">To Catch A Smuggler: South Pacific</title>
-    <sub-title>Cannabis Grey Zone</sub-title>
-    <desc>The weight of over a dozen cameras from China raise a red flag in customs.</desc>
-    <credits>
-      <director>Mark Mannucci</director>
-      <actor>Jim Finn</actor>
-      <writer>Mark Mannucci</writer>
-      <producer>Mark Mannucci</producer>
-      <composer>Timo Elliston</composer>
-    </credits>
-    <date>20221029</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Behind-the-scenes</category>
-    <category>Crime</category>
-    <category>Police</category>
-    <category>Drugs</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11805060184.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7190467556.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E18</episode-num>
-    <episode-num system="xmltv_ns">2.17.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="national-geographic">
-    <title lang="en">To Catch A Smuggler: South Pacific</title>
-    <sub-title>Framed for Meth</sub-title>
-    <desc>A business trip is canceled when a man's dark past sends him back home.</desc>
-    <credits>
-      <director>Mark Mannucci</director>
-      <actor>Jim Finn</actor>
-      <writer>Mark Mannucci</writer>
-      <producer>Mark Mannucci</producer>
-      <composer>Timo Elliston</composer>
-    </credits>
-    <date>20221029</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Behind-the-scenes</category>
-    <category>Crime</category>
-    <category>Police</category>
-    <category>Drugs</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-11805060184.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7190467556.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -16281,19 +15835,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="nba-tv-04192021">
-    <title lang="en">High Tops: Plays of the Month</title>
-    <sub-title>Best of LeBron James</sub-title>
-    <desc>Highlighting the top plays and moments from the legendary career of LeBron James in his quest to become the NBA's all-time leading scorer.</desc>
-    <date>20230204</date>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Basketball</category>
-    <category>Highlights</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1420855682.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1420855681.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211220000 +0000" channel="nba-tv-04192021">
     <title lang="en">NBA TV Marquee Matchup</title>
     <sub-title>02-09-2023</sub-title>
@@ -16407,14 +15948,16 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8879263089.jpg" width="720" height="540"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20230211173000 +0000" stop="20230211193000 +0000" channel="nbc-20201017">
-    <title lang="en">Premier League Soccer</title>
-    <sub-title>Bournemouth vs. Newcastle United</sub-title>
-    <desc>Bournemouth vs. Newcastle United. From Vitality Stadium.</desc>
-    <date>20230000</date>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
+  <programme start="20230212083000 +0000" stop="20230212110000 +0000" channel="nba-tv-04192021">
+    <title lang="en">NBA Basketball</title>
+    <sub-title>Philadelphia 76ers at Brooklyn Nets</sub-title>
+    <desc>Philadelphia 76ers at Brooklyn Nets. From Barclays Center.</desc>
+    <date>20230211</date>
+    <category>Pro</category>
+    <category>Basketball</category>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5342124289.jpg" width="540" height="720"/>
+    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-5342124288.jpg" width="720" height="360"/>
+    <episode-num system="onscreen">S--E00</episode-num>
   </programme>
   <programme start="20230211193000 +0000" stop="20230211210000 +0000" channel="nbc-20201017">
     <title lang="en">FIS World Alpine Skiing Championships 2023</title>
@@ -16684,17 +16227,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="nfl-network">
-    <title lang="en">Super Bowl Live</title>
-    <desc>The latest 49ers-Chiefs news and analysis, plus special guests, from Super Bowl Week in Miami.</desc>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Football</category>
-    <category>Playoffs</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9706904112.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9706904109.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="nfl-network">
     <title lang="en">Super Bowl Live</title>
     <desc>The latest 49ers-Chiefs news and analysis, plus special guests, from Super Bowl Week in Miami.</desc>
@@ -16822,15 +16354,8 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20230211173000 +0000" stop="20230211200000 +0000" channel="nhl-network">
-    <title lang="en">NHL Tonight</title>
-    <desc>Catch in-game action, news from around the NHL, previews of all the games throughout the league, and real-time score updates.</desc>
-    <category>Sports stuff</category>
-    <category>Pro</category>
-    <category>Hockey</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6706553760.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6706553766.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
+  <programme start="20230212090000 +0000" stop="20230212100000 +0000" channel="nfl-network">
+    <title lang="en">The HOF Knocks: Welcome To Canton</title>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211213000 +0000" channel="nhl-network">
     <title lang="en">College Hockey</title>
@@ -16897,55 +16422,13 @@
     <title lang="en">On the Fly</title>
     <desc>A recap of the night's NHL action, with highlights, analysis, interviews, and more.</desc>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
-    <sub-title>The Salty Sponge/Karen for Spot</sub-title>
-    <desc>SpongeBob works the grill at the toughest joint in town; Karen looks after Spot while Plankton goes out of town.</desc>
-    <credits>
-      <director>Vincent Waller</director>
-      <writer>Stephen Hillenburg</writer>
-      <producer>Zeus Cervas</producer>
-      <composer>Nick Carr</composer>
-    </credits>
-    <date>20230128</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animals</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6598441135.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-172380245.jpg" width="720" height="363"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
+  <programme start="20230212083000 +0000" stop="20230212090000 +0000" channel="nhl-network">
+    <title lang="en">On the Fly</title>
+    <desc>A recap of the night's NHL action, with highlights, analysis, interviews, and more.</desc>
   </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="nickelodeon">
-    <title lang="en">SpongeBob SquarePants</title>
-    <sub-title>Enemy In-Law; Mermaid Man &amp; Barnacle Boy VI - The Motion Picture</sub-title>
-    <desc>Mr. Krabs does not approve of his mother's new suitor: rival restaurateur Plankton; SpongeBob persuades Mermaid Man and Barnacle Boy to come out of retirement one more time and star in a movie based on their superhero adventures.</desc>
-    <credits>
-      <director>Vincent Waller</director>
-      <writer>Stephen Hillenburg</writer>
-      <producer>Zeus Cervas</producer>
-      <composer>Nick Carr</composer>
-    </credits>
-    <date>20051014</date>
-    <category>Action/Adventure</category>
-    <category>Family</category>
-    <category>Children</category>
-    <category>Fantasy</category>
-    <category>Animals</category>
-    <category>Animated</category>
-    <category>Cartoon</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6598441135.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-172380245.jpg" width="720" height="363"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
+  <programme start="20230212090000 +0000" stop="20230212100000 +0000" channel="nhl-network">
+    <title lang="en">On the Fly</title>
+    <desc>A recap of the night's NHL action, with highlights, analysis, interviews, and more.</desc>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="nickelodeon">
     <title lang="en">SpongeBob SquarePants</title>
@@ -17929,26 +17412,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="oxygen">
-    <title lang="en">Accident, Suicide, Or Murder</title>
-    <sub-title>The Big Shot</sub-title>
-    <desc>When a late-night party in the home of a celebrity basketball player turns deadly, a curious web of lies leads detectives on a rocky road to the truth to find justice for the unlikely victim.</desc>
-    <credits>
-      <actor>Scott DuPont</actor>
-    </credits>
-    <date>20221126</date>
-    <category>Documentary</category>
-    <category>Crime</category>
-    <category>Docudrama</category>
-    <category>Police</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-9809453525.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-8480446971.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="oxygen">
     <title lang="en">Accident, Suicide, Or Murder</title>
     <sub-title>Father Knows Death</sub-title>
@@ -18852,27 +18315,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="science-channel">
-    <title lang="en">Mythical Beasts</title>
-    <sub-title>Call of the Werewolf</sub-title>
-    <desc>Werewolves were once so feared, people suspected of the power were hunted and killed, but even so, many admitted that they could become these deadly creatures, and new evidence reveals why a powerful hallucinogenic drug could be to blame.</desc>
-    <credits>
-      <director>Gareth Sacala</director>
-      <producer>Linda McCarthy</producer>
-    </credits>
-    <date>20181209</date>
-    <category>Documentary</category>
-    <category>Science</category>
-    <category>Animals</category>
-    <category>History</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-6613168505.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-6613168503.jpg" width="720" height="360"/>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="science-channel">
     <title lang="en">Mythical Beasts</title>
     <sub-title>Hunting the Loch Ness Monster</sub-title>
@@ -19500,12 +18942,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230211180000 +0000" stop="20230211200000 +0000" channel="sec-network">
-    <title lang="en">College Basketball</title>
-    <sub-title>South Carolina at Mississippi</sub-title>
-    <desc>South Carolina at Mississippi. From The Sandy and John Black Pavilion at Ole Miss.</desc>
-    <date>20230000</date>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="sec-network">
     <title lang="en">SEC Now</title>
     <sub-title>02-11-2023</sub-title>
@@ -19620,25 +19056,11 @@
     <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-1212084286.jpg" width="720" height="360"/>
     <episode-num system="onscreen">S--E00</episode-num>
   </programme>
-  <programme start="20230211174500 +0000" stop="20230211200000 +0000" channel="showtime">
-    <title lang="en">Good Will Hunting</title>
-    <desc>Costars and co-writers Matt Damon and Ben Affleck won an Oscar for their tale of a charismatic genius (Damon) who lands in jail after a playground brawl. His hope for the future lies with a sympathetic therapist (Best Supporting Actor Robin Williams), who understands the young man's rebellious nature. Minnie Driver, Stellan Skarsgard, Casey Affleck.</desc>
-    <date>20040921</date>
-    <category>Drama</category>
-    <category>Coming of age</category>
-    <category>Other</category>
-    <category>Romance</category>
-    <length units="seconds">7620</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-12357012307.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7540811594.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>70/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/70.png" width="128" height="128"/>
-    </star-rating>
+  <programme start="20230212083000 +0000" stop="20230212103000 +0000" channel="sec-network">
+    <title lang="en">College Basketball</title>
+    <sub-title>Missouri at Tennessee</sub-title>
+    <desc>Missouri at Tennessee. From Thompson-Boling Arena.</desc>
+    <date>20230000</date>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211213000 +0000" channel="showtime">
     <title lang="en">Nothing Lasts Forever</title>
@@ -19851,26 +19273,6 @@
     <star-rating system="Metascore">
       <value>53/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/53.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230211181800 +0000" stop="20230211195600 +0000" channel="starz">
-    <title lang="en">You're Next</title>
-    <desc>In this terrifying horror film, Crispian and his new girlfriend Erin attend a family reunion that turns into a feral massacre when a gang of masked killers invade a sprawling country mansion on a ruthless mission of murder.</desc>
-    <date>20130906</date>
-    <category>Drama</category>
-    <category>Horror</category>
-    <category>Crime</category>
-    <category>Mystery &amp; Suspense</category>
-    <length units="seconds">5700</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-836097616.jpg" width="510" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7373285384.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>66/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
   </programme>
   <programme start="20230211195600 +0000" stop="20230211220300 +0000" channel="starz">
@@ -20427,25 +19829,6 @@
     <desc>Thomas and his fellow Gladers battle the powerful organization WCKD while facing the perils of the Scorch, a desolate landscape filled with dangerous obstacles.</desc>
     <date>20160000</date>
   </programme>
-  <programme start="20230211163000 +0000" stop="20230211191500 +0000" channel="tbs">
-    <title lang="en">Star Wars: A New Hope</title>
-    <desc>George Lucas's Oscar-winning space fantasy about a young man who joins a rebel alliance working to overthrow an evil empire that's taking over the galaxy.</desc>
-    <date>20160928</date>
-    <category>Action/Adventure</category>
-    <category>Fantasy</category>
-    <category>Sci-fi</category>
-    <length units="seconds">7260</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-4658541863.jpg" width="511" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7759968954.jpg" width="720" height="554"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>90/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/90.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230211191500 +0000" stop="20230211220200 +0000" channel="tbs">
     <title lang="en">Star Wars: The Empire Strikes Back</title>
     <desc>Luke Skywalker and the Rebel Alliance continue their star wars with the evil Empire of Darth Vader in the second film to be released in George Lucas's sci-fi series.</desc>
@@ -20893,13 +20276,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20230211160000 +0000" stop="20230211200000 +0000" channel="cw-02032021">
-    <title lang="en">Local Programming</title>
-    <desc>Local programming.</desc>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20230211200000 +0000" stop="20230212010000 +0000" channel="cw-02032021">
     <title lang="en">Local Programming</title>
     <desc>Local programming.</desc>
@@ -20999,20 +20375,6 @@
     <desc>Local programming.</desc>
     <rating system="VCHIP">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="tlc">
-    <title lang="en">Hoarding: Buried Alive - 10 Biggest Hoards</title>
-    <sub-title>Randy</sub-title>
-    <desc>A man's landlord orders him to leave his apartment, giving him only a few days to clear out 20 years of hoarding.</desc>
-    <date>20140601</date>
-    <category>Documentary</category>
-    <category>Reality</category>
-    <category>Psychology</category>
-    <category>Companion series</category>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="tlc">
@@ -21527,29 +20889,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230211170000 +0000" stop="20230211193000 +0000" channel="tnt">
-    <title lang="en">You've Got Mail</title>
-    <desc>The owner of a bookstore chain falls for a competitor he meets in an online chat room in this sweet romantic comedy. Although their online personas get along wonderfully, sparks fly when they meet in person.</desc>
-    <date>20110723</date>
-    <category>Drama</category>
-    <category>Comedy</category>
-    <category>Family</category>
-    <category>Chick flick</category>
-    <category>Romance</category>
-    <category>Adaptation</category>
-    <category>Reboot/Reimagining</category>
-    <length units="seconds">6960</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-172494456.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-928522130.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>57/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/57.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
   <programme start="20230211193000 +0000" stop="20230211214500 +0000" channel="tnt">
     <title lang="en">The Vow</title>
     <desc>This heartrending romantic drama follows a devoted husband (Channing Tatum) as he fights to win back his new bride's heart after she loses her memory in a tragic car accident.</desc>
@@ -21976,21 +21315,6 @@
       <value>45/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/45.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211200000 +0000" channel="travel-channel">
-    <title lang="en">Most Terrifying Places</title>
-    <sub-title>Graveyard of the Atlantic</sub-title>
-    <desc>A monstrous headmistress tortures innocent souls from beyond the grave; a restaurant quakes with ghostly activity; and an island is stalked by the sinister spirit of a notorious pirate.</desc>
-    <date>20191022</date>
-    <category>Documentary</category>
-    <category>Travel</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7806173873.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-7806173877.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211210000 +0000" channel="travel-channel">
     <title lang="en">Most Terrifying Places</title>
@@ -22459,26 +21783,6 @@
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20230211180000 +0000" stop="20230211200000 +0000" channel="trutv">
-    <title lang="en">Austin Powers: The Spy Who Shagged Me</title>
-    <desc>Mike Myers is a gas in three roles---Austin Powers, Dr. Evil and a portly Scotsman---in this riotous sequel. In this entry, Dr. Evil time-travels back to 1969 to steal Powers' "mojo," the life force that makes him such a swinging ladies' man. The international man of mystery also goes back in time to thwart Dr. Evil's latest scheme to dominate the world. Heather Graham, Verne J. Troyer.</desc>
-    <date>20040930</date>
-    <category>Comedy</category>
-    <category>Comedy-drama</category>
-    <category>Satire</category>
-    <category>Sequel</category>
-    <length units="seconds">5700</length>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/2/1-172486739.jpg" width="540" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-3207934430.jpg" width="720" height="540"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>59/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/59.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="trutv">
     <title lang="en">Impractical Jokers</title>
@@ -23540,58 +22844,6 @@
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="tvland">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title>First Kiss</sub-title>
-    <desc>Mike gets a bruised ego when he and Molly go on a bowling date.</desc>
-    <credits>
-      <director>James Burrows</director>
-      <actor role="Grandma">Cleo King</actor>
-      <writer>Don Foster</writer>
-      <producer>Mona Garcea</producer>
-      <composer>Grant Geissman</composer>
-    </credits>
-    <date>20101004</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12187996350.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12187996351.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>62/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="tvland">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title>Mike Snores</sub-title>
-    <desc>Molly is troubled by Mike's snoring problem.</desc>
-    <credits>
-      <director>James Burrows</director>
-      <actor role="Grandma">Cleo King</actor>
-      <writer>Don Foster</writer>
-      <producer>Mona Garcea</producer>
-      <composer>Grant Geissman</composer>
-    </credits>
-    <date>20101108</date>
-    <category>Comedy</category>
-    <category>Sitcom</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-12187996350.jpg" width="480" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/5/1-12187996351.jpg" width="720" height="405"/>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="Metascore">
-      <value>62/100</value>
-      <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
-    </star-rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="tvland">
     <title lang="en">Mike &amp; Molly</title>
@@ -24932,12 +24184,6 @@
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/62.png" width="128" height="128"/>
     </star-rating>
   </programme>
-  <programme start="20230211173000 +0000" stop="20230211193000 +0000" channel="usa-network">
-    <title lang="en">College Basketball</title>
-    <sub-title>St. Bonaventure at Duquesne</sub-title>
-    <desc>St. Bonaventure at Duquesne. From UPMC Cooper Fieldhouse.</desc>
-    <date>20230000</date>
-  </programme>
   <programme start="20230211193000 +0000" stop="20230211213000 +0000" channel="usa-network">
     <title lang="en">College Basketball</title>
     <sub-title>Fordham at Davidson</sub-title>
@@ -25626,45 +24872,6 @@
       <value>66/100</value>
       <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/icons/metascore/66.png" width="128" height="128"/>
     </star-rating>
-  </programme>
-  <programme start="20230211190000 +0000" stop="20230211193000 +0000" channel="vh1">
-    <title lang="en">Cheaters</title>
-    <sub-title>Atisha Sharp</sub-title>
-    <desc>Atisha finds pictures of women alonside some condoms.</desc>
-    <credits>
-      <director>Kenneth M. Smith Jr.</director>
-    </credits>
-    <date>20210227</date>
-    <category>Drama</category>
-    <category>Reality</category>
-    <category>Dating</category>
-    <category>Troubled relationships</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3608693225.jpg" width="479" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7535345234.jpg" width="720" height="409"/>
-    <episode-num system="onscreen">S--E00</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230211193000 +0000" stop="20230211200000 +0000" channel="vh1">
-    <title lang="en">Cheaters</title>
-    <sub-title>Toni Palmer</sub-title>
-    <desc>Toni Palmer believes that her husband's claim that he needs to work for long hours is just a ruse. Accompanied by a team of investigators and cameramen, she confronted him while on in the company of the woman he is having an affair with.</desc>
-    <credits>
-      <director>Kenneth M. Smith Jr.</director>
-    </credits>
-    <date>20060213</date>
-    <category>Drama</category>
-    <category>Reality</category>
-    <category>Dating</category>
-    <category>Troubled relationships</category>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-3608693225.jpg" width="479" height="720"/>
-    <icon src="https://raw.githubusercontent.com/interlark/123tv-tvguide/master/images/posters/provider/1/1/1-7535345234.jpg" width="720" height="409"/>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <episode-num system="xmltv_ns">5.9.</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230211200000 +0000" stop="20230211203000 +0000" channel="vh1">
     <title lang="en">Cheaters</title>
